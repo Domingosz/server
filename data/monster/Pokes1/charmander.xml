@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Charmander" nameDescription="a charmander" race="fire" race2="none" experience="31" speed="130" manacost="0">
+<monster name="Charmander" nameDescription="a charmander" race="fire" race2="none" experience="31" speed="40" manacost="0">
 	<level min="10" max="20"/>
-	<health now="833" max="833" />
+	<health now="150" max="150" />
 	<look type="907" head="113" body="57" legs="95" feet="113" corpse="26865" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="22" />
-		<flag moveMagicAttackBase="60" />
-		<flag moveMagicDefenseBase="50" />
+		<flag moveMagicAttackBase="40" />
+		<flag moveMagicDefenseBase="30" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -47,14 +47,14 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-52" max="-52" />
+		<attack name="melee" interval="2000" min="-30" max="-30" />
 		<attack name="scratch" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="ember" interval="3000" chance="40" target="1"/>
 		<attack name="flamethrower" interval="11000" chance="40"/>
 		<attack name="slash" interval="5000" chance="40" range="1" target="1"/>
 
 	</attacks>
-	<defenses armor="0" defense="43" >
+	<defenses armor="0" defense="30" >
 
 	</defenses>
 	<elements>

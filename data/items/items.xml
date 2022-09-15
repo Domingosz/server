@@ -5574,7 +5574,7 @@
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
 	</item> 
-	<item id="28106" article="a" name="slain shiny psyduck">
+	<item id="28106" article="a" name="slain blue psyduck">
 		<attribute key="weight" value="20000" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="600" />

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Venusaur" nameDescription="a venusaur" race="grass" race2="poison" experience="54" speed="160" manacost="0">
+<monster name="Venusaur" nameDescription="a venusaur" race="grass" race2="poison" experience="54" speed="50" manacost="0">
 	<level min="40" max="50"/>
-	<health now="1700" max="1700" />
+	<health now="250" max="1700" />
 	<look type="906" head="113" body="57" legs="95" feet="113" corpse="26864" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="9" />
-		<flag moveMagicAttackBase="100" />
-		<flag moveMagicDefenseBase="100" />
+		<flag moveMagicAttackBase="60" />
+		<flag moveMagicDefenseBase="60" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -49,7 +49,7 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-82" max="-82" />
+		<attack name="melee" interval="2000" min="-50" max="-50" />
 		<attack name="tackle" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="leech seed" interval="10000" chance="40" target="1"/>
 		<attack name="vine whip" interval="9000" chance="40"/>
@@ -60,7 +60,7 @@
 		<attack name="passive grass" interval="40000" chance="40"/>
 
 	</attacks>
-	<defenses armor="0" defense="83" >
+	<defenses armor="0" defense="50" >
 		<defense name="passive grass" interval="40000" chance="100"/>
 
 	</defenses>

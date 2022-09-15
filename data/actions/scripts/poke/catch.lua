@@ -78,7 +78,7 @@ function onUse(player, item, fromPosition, target, toPosition, isHotkey)
 	local monsterNumber = monsterType:getNumber()
 	local storageCatch = baseStorageCatches + monsterNumber
 	local storageTry = baseStorageTries + monsterNumber
-	local level = targetCorpse:getSpecialAttribute("corpseLevel") or initialLevel
+	local level = initialLevel
 	doSendDistanceShoot(playerPos, toPosition, balls[ballKey].missile)
 	item:remove(1)
 	targetCorpse:remove()

@@ -8,7 +8,7 @@ stonesId = { -- lixo
 --legendaryPokemons = {"Zapdos", "Articuno", "Moltres", "Mew", "Mewtwo", "Raikou", "Entei", "Suicune", "Ho-oh", "Lugia", "Celebi", "Regirock", "Regice", "Registeel", "Latias", "Latios", "Kyogre", "Groudon", "Rayquaza", "Shiny Zapdos", "Shiny Articuno", "Shiny Moltres", "Shiny Mew", "Shiny Mewtwo", "Shiny Raikou", "Shiny Entei", "Shiny Suicune", "Shiny Ho-oh", "Shiny Lugia", "Shiny Celebi", "Shiny Regirock", "Shiny Regice", "Shiny Registeel", "Shiny Latias", "Shiny Latios", "Shiny Kyogre", "Shiny Groudon", "Shiny Rayquaza"}
 
 maxBoost = 50
-summonMaxLevel = 200 -- maximum level of pokes
+summonMaxLevel = 100 -- maximum level of pokes
 maxVitamins = 10
 shinyChance = 50
 flyFloor = 460 
@@ -17,10 +17,10 @@ legendaryIndex = {144, 145, 146, 150, 151, 243, 244, 245, 249, 250, 251, 377, 37
 arenaLastPlayerId = 0
 
 damageMultiplierMoves = {areawaves = 2.75, singletargetweak = 2.0, singletarget = 3.5, singletargetstrong = 4.0, areatarget = 3.0, frontlinear = 5.0, frontarea = 4.0, passive = 3.0, ultimate = 6.0}
-summonLevelDamageBuff = 10 -- buff due to summon's level
-playerLevelDamageBuff = 0.0005 -- buff due to player's level
-summonBoostDamageBuff = 20 -- buff due to summon's boost
-summonLoveDamageBuff = 0.0002 -- buff due to summon's love
+summonLevelDamageBuff = 0.1 -- buff due to POKEMON's level
+playerLevelDamageBuff = 0.05-- buff due to PLAYER's level
+summonBoostDamageBuff = 0.01 -- buff due to POKEMON's BOOST
+summonLoveDamageBuff = 0.05 -- buff due to POKEMON's LOVE
 vitaminStatusBuff = 1.2
 hunterDamageBuff = 1.1
 blockerHealthBuff = 1.25

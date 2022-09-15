@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Rattata" nameDescription="a rattata" race="normal" race2="none" experience="26" speed="144" manacost="0">
+<monster name="Rattata" nameDescription="a rattata" race="normal" race2="none" experience="26" speed="40" manacost="0">
 	<level min="1" max="2"/>
-	<health now="646" max="646" />
+	<health now="150" max="150" />
 	<look type="3214" head="113" body="57" legs="95" feet="113" corpse="26880" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="26" />
-		<flag moveMagicAttackBase="25" />
-		<flag moveMagicDefenseBase="35" />
+		<flag moveMagicAttackBase="20" />
+		<flag moveMagicDefenseBase="20" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -46,13 +46,13 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-56" max="-56" />
+		<attack name="melee" interval="2000" min="-30" max="-30" />
 		<attack name="tackle" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="bite" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="quick attack" interval="3000" chance="40" target="1"/>
 
 	</attacks>
-	<defenses armor="0" defense="35" >
+	<defenses armor="0" defense="20" >
 
 	</defenses>
 	<elements>

@@ -75,7 +75,7 @@
 
 	</immunities>
 	<voices interval="5000" chance="10">
-		<voice sentence="SHINY CHARIZARD!" />
+		<voice sentence="BLACK CHARIZARD!" />
 	</voices>
 	<loot>
 		<item name="fire stone" countmax="1" chance="200"/>
