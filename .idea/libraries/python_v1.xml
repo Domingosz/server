@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="python_v1">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/vc14/boost_1_62_0/libs/python/build/python_v1.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
