@@ -2,13 +2,21 @@
 <monsters>
 	<!-- Pokes1 -->
 	<monster name="Bulbasaur" file="Pokes1/bulbasaur.xml" />
+	<monster name="Amber Bulbasaur" file="Pokes1/amber bulbasaur.xml" />
+	<monster name="Crimson Bulbasaur" file="Pokes1/crimson bulbasaur.xml" />
+	<monster name="Pink Bulbasaur" file="Pokes1/pink bulbasaur.xml" />
+	<monster name="Emerald Bulbasaur" file="Pokes1/emerald bulbasaur.xml" />
+	<monster name="Sapphire Bulbasaur" file="Pokes1/sapphire bulbasaur.xml" />
 	<monster name="Ivysaur" file="Pokes1/ivysaur.xml" />
+	<monster name="Amber Ivysaur" file="Pokes1/amber ivysaur.xml" />
+	<monster name="Crimson Ivysaur" file="Pokes1/crimson ivysaur.xml" />
+	<monster name="Pink Ivysaur" file="Pokes1/pink ivysaur.xml" />
+	<monster name="Emerald Ivysaur" file="Pokes1/emerald ivysaur.xml" />
+	<monster name="Sapphire Ivysaur" file="Pokes1/sapphire ivysaur.xml" />
 	<monster name="Venusaur" file="Pokes1/venusaur.xml" />
 	<monster name="Charmander" file="Pokes1/charmander.xml" />
 	<monster name="Charmeleon" file="Pokes1/charmeleon.xml" />
 	<monster name="Charizard" file="Pokes1/charizard.xml" />
-	<monster name="Black Charizard" file="Pokes1/black charizard.xml" />
-	<monster name="Blue Charizard" file="Pokes1/blue charizard.xml" />
 	<monster name="Squirtle" file="Pokes1/squirtle.xml" />
 	<monster name="Wartortle" file="Pokes1/wartortle.xml" />
 	<monster name="Blastoise" file="Pokes1/blastoise.xml" />
@@ -57,7 +65,6 @@
 	<monster name="Meowth" file="Pokes1/meowth.xml" />
 	<monster name="Persian" file="Pokes1/persian.xml" />
 	<monster name="Psyduck" file="Pokes1/psyduck.xml" />
-	<monster name="Blue Psyduck" file="Pokes1/blue psyduck.xml" />
 	<monster name="Golduck" file="Pokes1/golduck.xml" />
 	<monster name="Mankey" file="Pokes1/mankey.xml" />
 	<monster name="Primeape" file="Pokes1/primeape.xml" />
@@ -143,7 +150,6 @@
 	<monster name="Porygon" file="Pokes1/porygon.xml" />
 	<monster name="Omanyte" file="Pokes1/omanyte.xml" />
 	<monster name="Omastar" file="Pokes1/omastar.xml" />
-	<monster name="Omastarito" file="Pokes1/omastarito.xml" />
 	<monster name="Kabuto" file="Pokes1/kabuto.xml" />
 	<monster name="Kabutops" file="Pokes1/kabutops.xml" />
 	<monster name="Aerodactyl" file="Pokes1/aerodactyl.xml" />
@@ -391,7 +397,6 @@
 	<monster name="Rayquaza" file="Pokes1/rayquaza.xml" />
 	<monster name="Jirachi" file="Pokes1/jirachi.xml" />
 	<monster name="Deoxys" file="Pokes1/deoxys.xml" />
-	<monster name="Shiny Bulbasaur" file="Pokes1/shiny bulbasaur.xml" />
 	<monster name="Shiny Ivysaur" file="Pokes1/shiny ivysaur.xml" />
 	<monster name="Shiny Venusaur" file="Pokes1/shiny venusaur.xml" />
 	<monster name="Shiny Charmander" file="Pokes1/shiny charmander.xml" />
@@ -443,7 +448,6 @@
 	<monster name="Shiny Dugtrio" file="Pokes1/shiny dugtrio.xml" />
 	<monster name="Shiny Meowth" file="Pokes1/shiny meowth.xml" />
 	<monster name="Shiny Persian" file="Pokes1/shiny persian.xml" />
-	<monster name="Purple Psyduck" file="Pokes1/purple psyduck.xml" />
 	<monster name="Shiny Golduck" file="Pokes1/shiny golduck.xml" />
 	<monster name="Shiny Mankey" file="Pokes1/shiny mankey.xml" />
 	<monster name="Shiny Primeape" file="Pokes1/shiny primeape.xml" />
@@ -918,7 +922,6 @@
 	<monster name="Munchlax" file="Pokes1/munchlax.xml" />
 	<monster name="Riolu" file="Pokes1/riolu.xml" />
 	<monster name="Lucario" file="Pokes1/lucario.xml" />
-	<monster name="Skurwysyn" file="Pokes1/skurwysyn.xml" />
 	<monster name="Hippopotas" file="Pokes1/hippopotas.xml" />
 	<monster name="Hippowdon" file="Pokes1/hippowdon.xml" />
 	<monster name="Skorupi" file="Pokes1/skorupi.xml" />

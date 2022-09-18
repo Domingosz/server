@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Charmeleon" nameDescription="a charmeleon" race="fire" race2="none" experience="41" speed="50" manacost="0">
+<monster name="Charmeleon" nameDescription="a charmeleon" race="fire" race2="none" experience="41" speed="160" manacost="0">
 	<level min="30" max="40"/>
-	<health now="200" max="200" />
+	<health now="1241" max="1241" />
 	<look type="908" head="113" body="57" legs="95" feet="113" corpse="26866" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="17" />
-		<flag moveMagicAttackBase="50" />
-		<flag moveMagicDefenseBase="40" />
+		<flag moveMagicAttackBase="80" />
+		<flag moveMagicDefenseBase="65" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -49,7 +49,7 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-40" max="-40" />
+		<attack name="melee" interval="2000" min="-64" max="-64" />
 		<attack name="scratch" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="ember" interval="3000" chance="40" target="1"/>
 		<attack name="flamethrower" interval="11000" chance="40"/>
@@ -58,7 +58,7 @@
 		<attack name="fire blast" interval="17000" chance="40"/>
 
 	</attacks>
-	<defenses armor="0" defense="30" >
+	<defenses armor="0" defense="58" >
 
 	</defenses>
 	<elements>

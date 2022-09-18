@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Squirtle" nameDescription="a squirtle" race="water" race2="none" experience="32" speed="30" manacost="0">
+<monster name="Squirtle" nameDescription="a squirtle" race="water" race2="none" experience="32" speed="86" manacost="0">
 	<level min="10" max="20"/>
-	<health now="150" max="150" />
+	<health now="935" max="935" />
 	<look type="910" head="113" body="57" legs="95" feet="113" corpse="26868" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="1421" />
 		<flag canteleport="0" />
 		<flag catchchance="22" />
-		<flag moveMagicAttackBase="30" />
-		<flag moveMagicDefenseBase="40" />
+		<flag moveMagicAttackBase="50" />
+		<flag moveMagicDefenseBase="64" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -47,14 +47,14 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-30" max="-30" />
+		<attack name="melee" interval="2000" min="-48" max="-48" />
 		<attack name="tackle" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="bubble" interval="3000" chance="40" target="1"/>
 		<attack name="water gun" interval="8000" chance="40"/>
 		<attack name="bite" interval="3000" chance="40" range="1" target="1"/>
 
 	</attacks>
-	<defenses armor="0" defense="40" >
+	<defenses armor="0" defense="65" >
 
 	</defenses>
 	<elements>

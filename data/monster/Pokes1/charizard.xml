@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Charizard" nameDescription="a charizard" race="fire" race2="flying" experience="55" speed="60" manacost="0">
-	<level min="40" max="50"/>
-	<health now="250" max="250" />
+<monster name="Charizard" nameDescription="a charizard" race="fire" race2="flying" experience="55" speed="200" manacost="0">
+	<level min="150" max="150"/>
+	<health now="1666" max="1666" />
 	<look type="909" head="113" body="57" legs="95" feet="113" corpse="26867" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="9" />
-		<flag moveMagicAttackBase="60" />
-		<flag moveMagicDefenseBase="50" />
+		<flag moveMagicAttackBase="109" />
+		<flag moveMagicDefenseBase="85" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -49,7 +49,7 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-50" max="-50" />
+		<attack name="melee" interval="2000" min="-84" max="-84" />
 		<attack name="scratch" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="ember" interval="3000" chance="40" target="1"/>
 		<attack name="flamethrower" interval="11000" chance="40"/>
@@ -60,7 +60,7 @@
 		<attack name="passive fire" interval="40000" chance="40"/>
 
 	</attacks>
-	<defenses armor="0" defense="40" >
+	<defenses armor="0" defense="78" >
 		<defense name="passive fire" interval="40000" chance="100"/>
 
 	</defenses>

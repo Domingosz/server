@@ -1,31 +1,31 @@
 local criticalProbability = 1
 local blockedProbability = 1
-local racesStrength = 
-	{
-		["none"] = {strong = {}, weak = {}},
-		["blood"] = {strong = {}, weak = {}},
-		["physical"] = {strong = {}, weak = {}},
-		["healing"] = {strong = {}, weak = {}},
-		["fire"] = {strong = {"grass", "ice", "bug", "steel"}, weak = {"water", "ground", "rock"}},
-		["grass"] = {strong = {"water", "ground", "rock"}, weak = {"fire", "ice", "poison", "flying", "bug"}},
-		["normal"] = {strong = {}, weak = {"fighting"}},
-		["water"] = {strong = {"fire", "ground", "rock"}, weak = {"electric", "grass"}},
-		["flying"] = {strong = {"grass", "fighting", "bug"}, weak = {"electric", "ice", "rock"}},
-		["poison"] = {strong = {"grass", "fairy"}, weak = {"ground", "psychic"}},
-		["earth"] = {strong = {"grass", "fairy"}, weak = {"ground", "psychic"}}, --correct CONDITION_POISON = COMBAT_EARTHDAMAGE
-		["electric"] = {strong = {"water", "flying"}, weak = {"ground"}},
-		["ground"] = {strong = {"fire", "electric", "poison", "rock", "steel"}, weak = {"water", "grass", "ice"}},
-		["psychic"] = {strong = {"fighting", "poison"}, weak = {"bug", "ghost", "dark"}},
-		["rock"] = {strong = {"fire", "ice", "flying", "bug"}, weak = {"water", "grass", "fighting", "ground", "steel"}},
-		["ice"] = {strong = {"grass", "ground", "flying", "dragon"}, weak = {"fire", "fighting", "rock", "steel"}},
-		["bug"] = {strong = {"grass", "psychic", "dark"}, weak = {"fire", "flying", "rock"}},
-		["dragon"] = {strong = {"dragon"}, weak = {"ice", "dragon", "fairy"}},
-		["ghost"] = {strong = {"psychic", "ghost"}, weak = {"ghost", "dark"}},
-		["dark"] = {strong = {"psychic", "ghost"}, weak = {"fighting", "bug", "fairy"}},
-		["steel"] = {strong = {"ice", "rock", "fairy"}, weak = {"fire", "fighting", "ground"}},
-		["fairy"] = {strong = {"fighting", "dragon", "dark"}, weak = {"poison", "steel"}},
-		["fighting"] = {strong = {"normal", "ice", "rock", "dark", "steel"}, weak = {"flying", "psychic", "fairy"}}
-	}
+local racesStrength =
+{
+	["none"] = {strong = {}, weak = {}},
+	["blood"] = {strong = {}, weak = {}},
+	["physical"] = {strong = {}, weak = {}},
+	["healing"] = {strong = {}, weak = {}},
+	["fire"] = {strong = {"grass", "ice", "bug", "steel"}, weak = {"water", "ground", "rock"}},
+	["grass"] = {strong = {"water", "ground", "rock"}, weak = {"fire", "ice", "poison", "flying", "bug"}},
+	["normal"] = {strong = {}, weak = {"fighting"}},
+	["water"] = {strong = {"fire", "ground", "rock"}, weak = {"electric", "grass"}},
+	["flying"] = {strong = {"grass", "fighting", "bug"}, weak = {"electric", "ice", "rock"}},
+	["poison"] = {strong = {"grass", "fairy"}, weak = {"ground", "psychic"}},
+	["earth"] = {strong = {"grass", "fairy"}, weak = {"ground", "psychic"}}, --correct CONDITION_POISON = COMBAT_EARTHDAMAGE
+	["electric"] = {strong = {"water", "flying"}, weak = {"ground"}},
+	["ground"] = {strong = {"fire", "electric", "poison", "rock", "steel"}, weak = {"water", "grass", "ice"}},
+	["psychic"] = {strong = {"fighting", "poison"}, weak = {"bug", "ghost", "dark"}},
+	["rock"] = {strong = {"fire", "ice", "flying", "bug"}, weak = {"water", "grass", "fighting", "ground", "steel"}},
+	["ice"] = {strong = {"grass", "ground", "flying", "dragon"}, weak = {"fire", "fighting", "rock", "steel"}},
+	["bug"] = {strong = {"grass", "psychic", "dark"}, weak = {"fire", "flying", "rock"}},
+	["dragon"] = {strong = {"dragon"}, weak = {"ice", "dragon", "fairy"}},
+	["ghost"] = {strong = {"psychic", "ghost"}, weak = {"ghost", "dark"}},
+	["dark"] = {strong = {"psychic", "ghost"}, weak = {"fighting", "bug", "fairy"}},
+	["steel"] = {strong = {"ice", "rock", "fairy"}, weak = {"fire", "fighting", "ground"}},
+	["fairy"] = {strong = {"fighting", "dragon", "dark"}, weak = {"poison", "steel"}},
+	["fighting"] = {strong = {"normal", "ice", "rock", "dark", "steel"}, weak = {"flying", "psychic", "fairy"}}
+}
 
 local function isStrongAgainst(attackerRace, defenderRace, defenderRace2)
 
@@ -82,16 +82,16 @@ function onHealthChange(creature, attacker, primaryDamage, primaryType, secondar
 
 	if secondaryTypeName == "physical" then
 		local defenseDamping = (1-creature:getTotalDefense()/600)
-		if defenseDamping <= 0.5 then 
+		if defenseDamping <= 0.5 then
 			defenseDamping = 0.5
 		elseif defenseDamping >= 1 then
 			defenseDamping = 1
 		end
 		localDamageMultiplier = localDamageMultiplier * defenseDamping
 	else
-		if primaryTypeName ~= "physical" and creature:getTotalMagicDefense() > 0 then	
+		if primaryTypeName ~= "physical" and creature:getTotalMagicDefense() > 0 then
 			local defenseDamping = (1-creature:getTotalMagicDefense()/600)
-			if defenseDamping <= 0.5 then 
+			if defenseDamping <= 0.5 then
 				defenseDamping = 0.5
 			elseif defenseDamping >= 1 then
 				defenseDamping = 1
@@ -130,7 +130,7 @@ function onHealthChange(creature, attacker, primaryDamage, primaryType, secondar
 		localDamageMultiplier = localDamageMultiplier / 3.0
 	end
 
-	localDamageMultiplier = localDamageMultiplier * (0.3 + math.random(1, 20) * 0.01)
+	localDamageMultiplier = localDamageMultiplier * (0.3 + math.random(5, 20) * 0.01)
 
 	if primaryDamage then primaryDamage = math.floor(primaryDamage * localDamageMultiplier) end
 	if secundaryDamage then secondaryDamage = math.floor(secondaryDamage * localDamageMultiplier) end

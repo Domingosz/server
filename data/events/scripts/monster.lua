@@ -297,8 +297,8 @@ local christmasPokes =
 
 local randomShiny =
 {
-    ["Charizard"] = {'blue charizard', 'black charizard'},
-    ["Psyduck"] = {'blue psyduck', 'purple psyduck'},
+	["Bulbasaur"] = {'amber bulbasaur', 'crimson bulbasaur', 'pink bulbasaur', 'emerald bulbasaur', 'sapphire bulbasaur'},
+	["Ivysaur"] = {'amber ivysaur', 'crimson ivysaur', 'pink ivysaur', 'emerald ivysaur', 'sapphire ivysaur'},
 }
 
 function Monster:onSpawn(position, startup, artificial)
@@ -311,6 +311,7 @@ function Monster:onSpawn(position, startup, artificial)
 			    if monsterConfig then
 				    local shinyName = monsterConfig[math.random(1, #monsterConfig)]
 				    local shinyMonsterType = MonsterType(shinyName)
+					print("-----> Losowanie koloru shiny " .. shinyName .. " <-----")
 				if not shinyMonsterType then
 					print("WARNING! " .. shinyName .. " not found for respawn.")
 				else

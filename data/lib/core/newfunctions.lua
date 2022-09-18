@@ -2,25 +2,25 @@ filledPokeball = 2325 -- lixo
 maxFilledBalls = 6 -- lixo
 firstPortrait = 27117 -- lixo
 stonesId = { -- lixo
-{"Water", 2267},
-{"Fire", 1}
+	{"Water", 2267},
+	{"Fire", 1}
 }
 --legendaryPokemons = {"Zapdos", "Articuno", "Moltres", "Mew", "Mewtwo", "Raikou", "Entei", "Suicune", "Ho-oh", "Lugia", "Celebi", "Regirock", "Regice", "Registeel", "Latias", "Latios", "Kyogre", "Groudon", "Rayquaza", "Shiny Zapdos", "Shiny Articuno", "Shiny Moltres", "Shiny Mew", "Shiny Mewtwo", "Shiny Raikou", "Shiny Entei", "Shiny Suicune", "Shiny Ho-oh", "Shiny Lugia", "Shiny Celebi", "Shiny Regirock", "Shiny Regice", "Shiny Registeel", "Shiny Latias", "Shiny Latios", "Shiny Kyogre", "Shiny Groudon", "Shiny Rayquaza"}
 
 maxBoost = 50
-summonMaxLevel = 100 -- maximum level of pokes
+summonMaxLevel = 200 -- maximum level of pokes
 maxVitamins = 10
-shinyChance = 50
-flyFloor = 460 
+shinyChance = 10
+flyFloor = 460
 moveWords = {"m1", "m2", "m3", "m4", "m5", "m6", "m7", "m8", "m9", "m10", "m11", "m12"}
 legendaryIndex = {144, 145, 146, 150, 151, 243, 244, 245, 249, 250, 251, 377, 378, 379, 380, 381, 382, 383, 384, 385, 386}
 arenaLastPlayerId = 0
 
 damageMultiplierMoves = {areawaves = 2.75, singletargetweak = 2.0, singletarget = 3.5, singletargetstrong = 4.0, areatarget = 3.0, frontlinear = 5.0, frontarea = 4.0, passive = 3.0, ultimate = 6.0}
-summonLevelDamageBuff = 0.1 -- buff due to POKEMON's level
-playerLevelDamageBuff = 0.05-- buff due to PLAYER's level
-summonBoostDamageBuff = 0.01 -- buff due to POKEMON's BOOST
-summonLoveDamageBuff = 0.05 -- buff due to POKEMON's LOVE
+summonLevelDamageBuff = 0.01 -- buff due to summon's level
+playerLevelDamageBuff = 0.01 -- buff due to player's level
+summonBoostDamageBuff = 0.01 -- buff due to summon's boost
+summonLoveDamageBuff = 0.005 -- buff due to summon's love
 vitaminStatusBuff = 1.2
 hunterDamageBuff = 1.1
 blockerHealthBuff = 1.25
@@ -91,57 +91,23 @@ badgeContainer = 38680
 waterIds = {493, 4608, 4609, 4610, 4611, 4612, 4613, 4614, 4615, 4616, 4617, 4618, 4619, 4620, 4621, 4622, 4623, 4624, 4625, 7236, 10499, 15401, 15402, 4820, 4821, 4822, 4823, 4824, 4825, 4664, 4665, 4666}
 
 balls = {
-pokeball = {emptyId = 26662, usedOn = 26661, usedOff = 26672, effectFail = 734, effectSucceed = 735, missile = 55, effectRelease = 308, chanceMultiplier = 20.0},
-greatball = {emptyId = 26660, usedOn = 26663, usedOff = 26675, effectFail = 738, effectSucceed = 739, missile = 57, effectRelease = 309, chanceMultiplier = 1.2},
-superball = {emptyId = 26659, usedOn = 26669, usedOff = 26674, effectFail = 736, effectSucceed = 737, missile = 56, effectRelease = 879, chanceMultiplier = 1.3},
-ultraball = {emptyId = 26688, usedOn = 26670, usedOff = 26681, effectFail = 740, effectSucceed = 741, missile = 58, effectRelease = 311, chanceMultiplier = 1.4},
-premierball = {emptyId = 26683, usedOn = 26666, usedOff = 26678, effectFail = 321, effectSucceed = 322, missile = 129, effectRelease = 310, chanceMultiplier = 1.5},
-safariball = {emptyId = 26685, usedOn = 26667, usedOff = 26679, effectFail = 323, effectSucceed = 324, missile = 128, effectRelease = 315, chanceMultiplier = 1.0},
-lamp = {emptyId = 2272, usedOn = 2325, usedOff = 23255, effectFail = 734, effectSucceed = 735, missile = 55, effectRelease = 308, chanceMultiplier = 1.0}
+	pokeball = {emptyId = 26662, usedOn = 26661, usedOff = 26672, effectFail = 734, effectSucceed = 735, missile = 55, effectRelease = 308, chanceMultiplier = 1.0},
+	greatball = {emptyId = 26660, usedOn = 26663, usedOff = 26675, effectFail = 738, effectSucceed = 739, missile = 57, effectRelease = 309, chanceMultiplier = 1.2},
+	superball = {emptyId = 26659, usedOn = 26669, usedOff = 26674, effectFail = 736, effectSucceed = 737, missile = 56, effectRelease = 879, chanceMultiplier = 1.3},
+	ultraball = {emptyId = 26688, usedOn = 26670, usedOff = 26681, effectFail = 740, effectSucceed = 741, missile = 58, effectRelease = 311, chanceMultiplier = 1.4},
+	premierball = {emptyId = 26683, usedOn = 26666, usedOff = 26678, effectFail = 321, effectSucceed = 322, missile = 129, effectRelease = 310, chanceMultiplier = 1.5},
+	safariball = {emptyId = 26685, usedOn = 26667, usedOff = 26679, effectFail = 323, effectSucceed = 324, missile = 128, effectRelease = 315, chanceMultiplier = 1.0},
+	lamp = {emptyId = 2272, usedOn = 2325, usedOff = 23255, effectFail = 734, effectSucceed = 735, missile = 55, effectRelease = 308, chanceMultiplier = 1.0}
 }
 
-quests = 
+quests =
 {
 
-catches = {
+	catches = {
 		prizes = {
 			[1] = {
 				uid = storageCatchQuest,
 				items = {
-				},
-				pokes = {					
-				},
-				badges = {
-				}
-			}
-		},
-		level = 1, 
-		teleportCP = 0
-	},
-
-itemTask = {
-		prizes = {
-			[1] = {
-				uid = storageItemQuest,
-				items = {
-				},
-				pokes = {					
-				},
-				badges = {
-				}
-			}
-		},
-		level = 1, 
-		teleportCP = 0
-	},
-
-indigoLeague = {
-		prizes = {
-			[1] = {
-				uid = storageLeagueDone,
-				items = {
-					[1] = {item = "indigo league trophy", count = 1}, 
-					[2] = {item = "crystal coin", count = 50}, 
 				},
 				pokes = {
 				},
@@ -149,13 +115,47 @@ indigoLeague = {
 				}
 			}
 		},
-		level = 125, 
+		level = 1,
+		teleportCP = 0
+	},
+
+	itemTask = {
+		prizes = {
+			[1] = {
+				uid = storageItemQuest,
+				items = {
+				},
+				pokes = {
+				},
+				badges = {
+				}
+			}
+		},
+		level = 1,
+		teleportCP = 0
+	},
+
+	indigoLeague = {
+		prizes = {
+			[1] = {
+				uid = storageLeagueDone,
+				items = {
+					[1] = {item = "indigo league trophy", count = 1},
+					[2] = {item = "crystal coin", count = 50},
+				},
+				pokes = {
+				},
+				badges = {
+				}
+			}
+		},
+		level = 125,
 		teleportCP = 0
 	},
 
 
 
-boulderBadge = {
+	boulderBadge = {
 		prizes = {
 			[1] = {
 				uid = 92000,
@@ -164,269 +164,269 @@ boulderBadge = {
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26614, add = 26608}, 
+					[1] = {remove = 26614, add = 26608},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-cascadeBadge = {
+	cascadeBadge = {
 		prizes = {
 			[1] = {
-				uid = 92001,				
+				uid = 92001,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26609, add = 26607}, 
+					[1] = {remove = 26609, add = 26607},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-thunderBadge = {
+	thunderBadge = {
 		prizes = {
 			[1] = {
-				uid = 92002,				
+				uid = 92002,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26615, add = 26603}, 
+					[1] = {remove = 26615, add = 26603},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-rainbowBadge = {
+	rainbowBadge = {
 		prizes = {
 			[1] = {
-				uid = 92003,				
+				uid = 92003,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26612, add = 26602}, 
+					[1] = {remove = 26612, add = 26602},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-soulBadge = {
+	soulBadge = {
 		prizes = {
 			[1] = {
-				uid = 92004,				
+				uid = 92004,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26613, add = 26605}, 
+					[1] = {remove = 26613, add = 26605},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-marshBadge = {
+	marshBadge = {
 		prizes = {
 			[1] = {
-				uid = 92005,				
+				uid = 92005,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26616, add = 26606}, 
+					[1] = {remove = 26616, add = 26606},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-volcanoBadge = {
+	volcanoBadge = {
 		prizes = {
 			[1] = {
-				uid = 92006,				
+				uid = 92006,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26610, add = 26601}, 
+					[1] = {remove = 26610, add = 26601},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-earthBadge = {
+	earthBadge = {
 		prizes = {
 			[1] = {
-				uid = 92007,				
+				uid = 92007,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 26611, add = 26604}, 
+					[1] = {remove = 26611, add = 26604},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-zephyrBadge = {
+	zephyrBadge = {
 		prizes = {
 			[1] = {
-				uid = 92008,				
+				uid = 92008,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38689, add = 38695}, 
+					[1] = {remove = 38689, add = 38695},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
-hiveBadge = {
+	hiveBadge = {
 		prizes = {
 			[1] = {
-				uid = 92009,				
+				uid = 92009,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38683, add = 38694}, 
+					[1] = {remove = 38683, add = 38694},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-plainBadge = {
+	plainBadge = {
 		prizes = {
 			[1] = {
-				uid = 92010,				
+				uid = 92010,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38685, add = 38691}, 
+					[1] = {remove = 38685, add = 38691},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-fogBadge = {
+	fogBadge = {
 		prizes = {
 			[1] = {
-				uid = 92011,				
+				uid = 92011,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38690, add = 38693}, 
+					[1] = {remove = 38690, add = 38693},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-stormBadge = {
+	stormBadge = {
 		prizes = {
 			[1] = {
-				uid = 92012,				
+				uid = 92012,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38684, add = 38697}, 
+					[1] = {remove = 38684, add = 38697},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-mineralBadge = {
+	mineralBadge = {
 		prizes = {
 			[1] = {
-				uid = 92013,				
+				uid = 92013,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38688, add = 38698}, 
+					[1] = {remove = 38688, add = 38698},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-glacierBadge = {
+	glacierBadge = {
 		prizes = {
 			[1] = {
-				uid = 92014,				
+				uid = 92014,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38686, add = 38692}, 
+					[1] = {remove = 38686, add = 38692},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-risingBadge = {
+	risingBadge = {
 		prizes = {
 			[1] = {
-				uid = 92015,				
+				uid = 92015,
 				items = {
 				},
 				pokes = {
 				},
 				badges = {
-					[1] = {remove = 38687, add = 38696}, 
+					[1] = {remove = 38687, add = 38696},
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-oakRequest = {
+	oakRequest = {
 		prizes = {
 			[1] = {
 				uid = 92016,
@@ -438,11 +438,11 @@ oakRequest = {
 				}
 			}
 		},
-		level = 150, 
+		level = 150,
 		teleportCP = 0
 	},
 
-thePokemaster = {
+	thePokemaster = {
 		prizes = {
 			[1] = {
 				uid = 92017,
@@ -454,11 +454,11 @@ thePokemaster = {
 				}
 			}
 		},
-		level = 175, 
+		level = 175,
 		teleportCP = 0
 	},
 
-redRequest = {
+	redRequest = {
 		prizes = {
 			[1] = {
 				uid = 92018,
@@ -471,11 +471,11 @@ redRequest = {
 				}
 			}
 		},
-		level = 175, 
+		level = 175,
 		teleportCP = 0
 	},
 
-cathemAll = {
+	cathemAll = {
 		prizes = {
 			[1] = {
 				uid = 92019,
@@ -488,11 +488,11 @@ cathemAll = {
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
-elderManQuest = {
+	elderManQuest = {
 		prizes = {
 			[1] = {
 				uid = 92020,
@@ -505,17 +505,17 @@ elderManQuest = {
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 0
 	},
 
 
-lugia = {
+	lugia = {
 		prizes = {
 			[1] = {
 				uid = 10200,
 				items = {
-					[1] = {item = "enigma stone", count = 100}, 
+					[1] = {item = "enigma stone", count = 100},
 					[2] = {item = "water stone", count = 100}
 				},
 				pokes = {
@@ -524,11 +524,11 @@ lugia = {
 				}
 			}
 		},
-		level = 50, 
+		level = 50,
 		teleportCP = 0
 	},
 
-moltres = {
+	moltres = {
 		prizes = {
 			[1] = {
 				uid = 10201,
@@ -541,16 +541,16 @@ moltres = {
 				}
 			}
 		},
-		level = 65, 
+		level = 65,
 		teleportCP = 1
 	},
 
-articuno = {
+	articuno = {
 		prizes = {
 			[1] = {
 				uid = 10202,
 				items = {
-					[1] = {item = "crystal coin", count = 2}, 
+					[1] = {item = "crystal coin", count = 2},
 					[2] = {item = "ice stone", count = 100}
 				},
 				pokes = {
@@ -559,11 +559,11 @@ articuno = {
 				}
 			}
 		},
-		level = 55, 
+		level = 55,
 		teleportCP = 1
 	},
 
-zapdos = {
+	zapdos = {
 		prizes = {
 			[1] = {
 				uid = 10203,
@@ -577,16 +577,16 @@ zapdos = {
 				}
 			}
 		},
-		level = 60, 
+		level = 60,
 		teleportCP = 0
 	},
 
-poison = {
+	poison = {
 		prizes = {
 			[1] = {
 				uid = 10204,
 				items = {
-					[1] = {item = "platinum coin", count = 50}, 
+					[1] = {item = "platinum coin", count = 50},
 					[2] = {item = "venom stone", count = 8}
 				},
 				pokes = {
@@ -595,16 +595,16 @@ poison = {
 				}
 			}
 		},
-		level = 30, 
+		level = 30,
 		teleportCP = 0
 	},
 
-punch = {
+	punch = {
 		prizes = {
 			[1] = {
 				uid = 10205,
 				items = {
-					[1] = {item = "platinum coin", count = 20}, 
+					[1] = {item = "platinum coin", count = 20},
 					[2] = {item = "punch stone", count = 8}
 				},
 				pokes = {
@@ -613,54 +613,54 @@ punch = {
 				}
 			}
 		},
-		level = 15, 
+		level = 15,
 		teleportCP = 0
 	},
 
---fight = {
---		prizes = {
---			[1] = {
---				uid = 10206,
---				items = {
---					[1] = {item = "punch stone", count = 2}, 
---					[2] = {item = "platinum coin", count = 10}
---				},
---				pokes = {
---					[1] = {name = "Machamp", level = 15, boost = 1}
---				},
---				badges = {
---				}
---			},
---			[2] = {
---				uid = 10207,
---				items = {
---					[1] = {item = "punch stone", count = 2}, 
---					[2] = {item = "platinum coin", count = 10}
---				},
---				pokes = {
---					[1] = {name = "Hitmonchan", level = 15, boost = 1}
---				},
---				badges = {
---				}
---			},
---			[3] = {
---				uid = 10208,
---				items = {
---					[1] = {item = "punch stone", count = 2}, 
---					[2] = {item = "platinum coin", count = 10}
---				},
---				pokes = {
---					[1] = {name = "Hitmonlee", level = 15, boost = 1}
---				},
---				badges = {
---				}
---			}
---		},
---		level = 10, 
---		teleportCP = 0
---	},
+	--fight = {
+	--		prizes = {
+	--			[1] = {
+	--				uid = 10206,
+	--				items = {
+	--					[1] = {item = "punch stone", count = 2},
+	--					[2] = {item = "platinum coin", count = 10}
+	--				},
+	--				pokes = {
+	--					[1] = {name = "Machamp", level = 15, boost = 1}
+	--				},
+	--				badges = {
+	--				}
+	--			},
+	--			[2] = {
+	--				uid = 10207,
+	--				items = {
+	--					[1] = {item = "punch stone", count = 2},
+	--					[2] = {item = "platinum coin", count = 10}
+	--				},
+	--				pokes = {
+	--					[1] = {name = "Hitmonchan", level = 15, boost = 1}
+	--				},
+	--				badges = {
+	--				}
+	--			},
+	--			[3] = {
+	--				uid = 10208,
+	--				items = {
+	--					[1] = {item = "punch stone", count = 2},
+	--					[2] = {item = "platinum coin", count = 10}
+	--				},
+	--				pokes = {
+	--					[1] = {name = "Hitmonlee", level = 15, boost = 1}
+	--				},
+	--				badges = {
+	--				}
+	--			}
+	--		},
+	--		level = 10,
+	--		teleportCP = 0
+	--	},
 
-darkness = {
+	darkness = {
 		prizes = {
 			[1] = {
 				uid = 10209,
@@ -673,11 +673,11 @@ darkness = {
 				}
 			}
 		},
-		level = 15, 
+		level = 15,
 		teleportCP = 0
 	},
 
-rock = {
+	rock = {
 		prizes = {
 			[1] = {
 				uid = 10210,
@@ -690,11 +690,11 @@ rock = {
 				}
 			}
 		},
-		level = 20, 
+		level = 20,
 		teleportCP = 0
 	},
 
-enigma = {
+	enigma = {
 		prizes = {
 			[1] = {
 				uid = 10211,
@@ -708,11 +708,11 @@ enigma = {
 				}
 			}
 		},
-		level = 25, 
+		level = 25,
 		teleportCP = 0
 	},
 
-rock2 = {
+	rock2 = {
 		prizes = {
 			[1] = {
 				uid = 10212,
@@ -726,11 +726,11 @@ rock2 = {
 				}
 			}
 		},
-		level = 25, 
+		level = 25,
 		teleportCP = 0
 	},
 
-thundershiny = {
+	thundershiny = {
 		prizes = {
 			[1] = {
 				uid = 10213,
@@ -753,11 +753,11 @@ thundershiny = {
 				}
 			}
 		},
-		level = 90, 
+		level = 90,
 		teleportCP = 0
 	},
 
-shiningbox = {
+	shiningbox = {
 		prizes = {
 			[1] = {
 				uid = 10215,
@@ -771,11 +771,11 @@ shiningbox = {
 				}
 			}
 		},
-		level = 200, 
+		level = 200,
 		teleportCP = 0
 	},
 
-fire = {
+	fire = {
 		prizes = {
 			[1] = {
 				uid = 10216,
@@ -788,11 +788,11 @@ fire = {
 				}
 			}
 		},
-		level = 50, 
+		level = 50,
 		teleportCP = 0
 	},
 
-subterranea = {
+	subterranea = {
 		prizes = {
 			[1] = {
 				uid = 10217,
@@ -806,11 +806,11 @@ subterranea = {
 				}
 			}
 		},
-		level = 18, 
+		level = 18,
 		teleportCP = 0
 	},
 
-earth = {
+	earth = {
 		prizes = {
 			[1] = {
 				uid = 10218,
@@ -824,11 +824,11 @@ earth = {
 				}
 			}
 		},
-		level = 15, 
+		level = 15,
 		teleportCP = 0
 	},
 
-firenostrus = {
+	firenostrus = {
 		prizes = {
 			[1] = {
 				uid = 10219,
@@ -841,11 +841,11 @@ firenostrus = {
 				}
 			}
 		},
-		level = 35, 
+		level = 35,
 		teleportCP = 0
 	},
 
-rock3 = {
+	rock3 = {
 		prizes = {
 			[1] = {
 				uid = 10220,
@@ -859,11 +859,11 @@ rock3 = {
 				}
 			}
 		},
-		level = 20, 
+		level = 20,
 		teleportCP = 0
 	},
 
-annihilator = {
+	annihilator = {
 		prizes = {
 			[1] = {
 				uid = 10221,
@@ -871,7 +871,7 @@ annihilator = {
 					[1] = {item = "crystal coin", count = 5}
 				},
 				pokes = {
-					[1] = {name = "Shiny Porygon", level = 35, boost = 10}					
+					[1] = {name = "Shiny Porygon", level = 35, boost = 10}
 				},
 				badges = {
 				}
@@ -882,7 +882,7 @@ annihilator = {
 					[1] = {item = "crystal coin", count = 5}
 				},
 				pokes = {
-					[1] = {name = "Shiny Hypno", level = 35, boost = 10}	
+					[1] = {name = "Shiny Hypno", level = 35, boost = 10}
 				},
 				badges = {
 				}
@@ -893,17 +893,17 @@ annihilator = {
 					[1] = {item = "crystal coin", count = 5}
 				},
 				pokes = {
-					[1] = {name = "Shiny Alakazam", level = 35, boost = 10}	
+					[1] = {name = "Shiny Alakazam", level = 35, boost = 10}
 				},
 				badges = {
 				}
 			}
 		},
-		level = 100, 
+		level = 100,
 		teleportCP = 0
 	},
 
-darkness2 = {
+	darkness2 = {
 		prizes = {
 			[1] = {
 				uid = 10224,
@@ -917,11 +917,11 @@ darkness2 = {
 				}
 			}
 		},
-		level = 20, 
+		level = 20,
 		teleportCP = 0
 	},
 
-enigma2 = {
+	enigma2 = {
 		prizes = {
 			[1] = {
 				uid = 10225,
@@ -935,11 +935,11 @@ enigma2 = {
 				}
 			}
 		},
-		level = 60, 
+		level = 60,
 		teleportCP = 0
 	},
 
-shinymoltres = {
+	shinymoltres = {
 		prizes = {
 			[1] = {
 				uid = 10226,
@@ -953,11 +953,11 @@ shinymoltres = {
 				}
 			}
 		},
-		level = 95, 
+		level = 95,
 		teleportCP = 0
 	},
 
-outlandleaf = {
+	outlandleaf = {
 		prizes = {
 			[1] = {
 				uid = 10227,
@@ -971,11 +971,11 @@ outlandleaf = {
 				}
 			}
 		},
-		level = 38, 
+		level = 38,
 		teleportCP = 0
 	},
 
-outlandcelebi = {
+	outlandcelebi = {
 		prizes = {
 			[1] = {
 				uid = 10228,
@@ -989,11 +989,11 @@ outlandcelebi = {
 				}
 			}
 		},
-		level = 65, 
+		level = 65,
 		teleportCP = 0
 	},
 
-outlandaquatica = {
+	outlandaquatica = {
 		prizes = {
 			[1] = {
 				uid = 10229,
@@ -1007,11 +1007,11 @@ outlandaquatica = {
 				}
 			}
 		},
-		level = 70, 
+		level = 70,
 		teleportCP = 0
 	},
 
-outlandpsiquica = {
+	outlandpsiquica = {
 		prizes = {
 			[1] = {
 				uid = 10230,
@@ -1025,11 +1025,11 @@ outlandpsiquica = {
 				}
 			}
 		},
-		level = 55, 
+		level = 55,
 		teleportCP = 0
 	},
 
-outlandsteel = {
+	outlandsteel = {
 		prizes = {
 			[1] = {
 				uid = 10231,
@@ -1043,11 +1043,11 @@ outlandsteel = {
 				}
 			}
 		},
-		level = 65, 
+		level = 65,
 		teleportCP = 0
 	},
 
-outlandfire = {
+	outlandfire = {
 		prizes = {
 			[1] = {
 				uid = 10232,
@@ -1061,11 +1061,11 @@ outlandfire = {
 				}
 			}
 		},
-		level = 50, 
+		level = 50,
 		teleportCP = 0
 	},
 
-outlandregirock = {
+	outlandregirock = {
 		prizes = {
 			[1] = {
 				uid = 10233,
@@ -1079,11 +1079,11 @@ outlandregirock = {
 				}
 			}
 		},
-		level = 80, 
+		level = 80,
 		teleportCP = 0
 	},
 
-outlandfight = {
+	outlandfight = {
 		prizes = {
 			[1] = {
 				uid = 10234,
@@ -1097,11 +1097,11 @@ outlandfight = {
 				}
 			}
 		},
-		level = 20, 
+		level = 20,
 		teleportCP = 0
 	},
 
-outlandpoison = {
+	outlandpoison = {
 		prizes = {
 			[1] = {
 				uid = 10235,
@@ -1115,11 +1115,11 @@ outlandpoison = {
 				}
 			}
 		},
-		level = 15, 
+		level = 15,
 		teleportCP = 0
 	},
 
-outlandarticuno = {
+	outlandarticuno = {
 		prizes = {
 			[1] = {
 				uid = 10236,
@@ -1133,11 +1133,11 @@ outlandarticuno = {
 				}
 			}
 		},
-		level = 60, 
+		level = 60,
 		teleportCP = 0
 	},
 
-outlandheart = {
+	outlandheart = {
 		prizes = {
 			[1] = {
 				uid = 10237,
@@ -1151,11 +1151,11 @@ outlandheart = {
 				}
 			}
 		},
-		level = 25, 
+		level = 25,
 		teleportCP = 0
 	},
 
-outlandnature = {
+	outlandnature = {
 		prizes = {
 			[1] = {
 				uid = 10238,
@@ -1168,11 +1168,11 @@ outlandnature = {
 				}
 			}
 		},
-		level = 45, 
+		level = 45,
 		teleportCP = 0
 	},
 
-outlandice = {
+	outlandice = {
 		prizes = {
 			[1] = {
 				uid = 10239,
@@ -1185,11 +1185,11 @@ outlandice = {
 				}
 			}
 		},
-		level = 30, 
+		level = 30,
 		teleportCP = 0
 	},
 
-outlandzapdos = {
+	outlandzapdos = {
 		prizes = {
 			[1] = {
 				uid = 10240,
@@ -1203,11 +1203,11 @@ outlandzapdos = {
 				}
 			}
 		},
-		level = 65, 
+		level = 65,
 		teleportCP = 0
 	},
 
-mtmoon = {
+	mtmoon = {
 		prizes = {
 			[1] = {
 				uid = 10241,
@@ -1221,11 +1221,11 @@ mtmoon = {
 				}
 			}
 		},
-		level = 35, 
+		level = 35,
 		teleportCP = 0
 	},
 
-lavendermaze = {
+	lavendermaze = {
 		prizes = {
 			[1] = {
 				uid = 10242,
@@ -1239,11 +1239,11 @@ lavendermaze = {
 				}
 			}
 		},
-		level = 35, 
+		level = 35,
 		teleportCP = 0
 	},
 
-outlandShinyCelebi = {
+	outlandShinyCelebi = {
 		prizes = {
 			[1] = {
 				uid = 10243,
@@ -1257,11 +1257,11 @@ outlandShinyCelebi = {
 				}
 			}
 		},
-		level = 65, 
+		level = 65,
 		teleportCP = 0
 	},
 
-mewDungeon = {
+	mewDungeon = {
 		prizes = {
 			[1] = {
 				uid = 10244,
@@ -1275,11 +1275,11 @@ mewDungeon = {
 				}
 			}
 		},
-		level = 175, 
+		level = 175,
 		teleportCP = 0
 	},
 
-ceruleanCave = {
+	ceruleanCave = {
 		prizes = {
 			[1] = {
 				uid = 10245,
@@ -1318,11 +1318,11 @@ ceruleanCave = {
 				}
 			}
 		},
-		level = 150, 
+		level = 150,
 		teleportCP = 0
 	},
 
-coldPortal = {
+	coldPortal = {
 		prizes = {
 			[1] = {
 				uid = 10248,
@@ -1336,11 +1336,11 @@ coldPortal = {
 				}
 			}
 		},
-		level = 100, 
+		level = 100,
 		teleportCP = 1
 	},
 
-azaleaQuest = {
+	azaleaQuest = {
 		prizes = {
 			[1] = {
 				uid = 10249,
@@ -1353,11 +1353,11 @@ azaleaQuest = {
 				}
 			}
 		},
-		level = 30, 
+		level = 30,
 		teleportCP = 0
 	},
 
-latiosLabyrinth = {
+	latiosLabyrinth = {
 		prizes = {
 			[1] = {
 				uid = 10250,
@@ -1371,11 +1371,11 @@ latiosLabyrinth = {
 				}
 			}
 		},
-		level = 80, 
+		level = 80,
 		teleportCP = 1
 	},
 
-terrorQuest = {
+	terrorQuest = {
 		prizes = {
 			[1] = {
 				uid = 10251,
@@ -1390,11 +1390,11 @@ terrorQuest = {
 				}
 			}
 		},
-		level = 150, 
+		level = 150,
 		teleportCP = 1
 	},
 
-secretSaffron = {
+	secretSaffron = {
 		prizes = {
 			[1] = {
 				uid = 10252,
@@ -1408,7 +1408,7 @@ secretSaffron = {
 				}
 			}
 		},
-		level = 1, 
+		level = 1,
 		teleportCP = 1
 	},
 
@@ -1510,7 +1510,7 @@ end
 
 function Monster.getTotalHealthPlayerContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMaxHealth() * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1518,17 +1518,17 @@ end
 
 function Monster.getTotalHealthSummonLevelContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMaxHealth() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
-		return math.floor(monsterType:getMaxHealth() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))	
-	end	
+		return math.floor(monsterType:getMaxHealth() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
+	end
 	return 0
 end
 
 function Monster.getTotalHealthSummonBoostContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMaxHealth() * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1536,7 +1536,7 @@ end
 
 function Monster.getTotalHealthSummonVitaminContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local vitamins = self:getUsedVitaminsNumber("hp")
 		if vitamins > 0 then
 			return math.floor(monsterType:getMaxHealth() * vitamins / maxVitamins * vitaminStatusBuff)
@@ -1549,9 +1549,9 @@ function MonsterType.getMeleeDamage(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #self:getAttackList() do
-		if self:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - self:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - self:getAttackList()[i].maxCombatValue			
+		if self:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - self:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - self:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
@@ -1563,13 +1563,13 @@ function Monster.getTotalMeleeAttack(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local total = math.floor(aveMelee * statusGainFormula(self:getMaster():getLevel(), self:getLevel(), self:getBoost(), self:getLove()))
 		if self:getMaster():getVocation():getName() == "Hunter" then
 			total = total * hunterDamageBuff
@@ -1580,7 +1580,7 @@ function Monster.getTotalMeleeAttack(self)
 		end
 		return total
 	elseif self:isMonster() then
-		return math.floor(aveMelee * statusGainFormula(0, self:getLevel(), 0, 0))	
+		return math.floor(aveMelee * statusGainFormula(0, self:getLevel(), 0, 0))
 	end
 	return 0
 end
@@ -1590,13 +1590,13 @@ function Monster.getTotalMeleeAttackPlayerContribution(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(aveMelee * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1607,13 +1607,13 @@ function Monster.getTotalMeleeAttackSummonLevelContribution(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(aveMelee * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
 		return math.floor(aveMelee * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
@@ -1626,13 +1626,13 @@ function Monster.getTotalMeleeAttackSummonBoostContribution(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(aveMelee * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1643,13 +1643,13 @@ function Monster.getTotalMeleeAttackVocationContribution(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		if self:getMaster():getVocation():getName() == "Hunter" then
 			return math.floor(aveMelee * statusGainFormula(self:getMaster():getLevel(), self:getLevel(), self:getBoost(), self:getLove()) * (hunterDamageBuff - 1.0))
 		end
@@ -1662,9 +1662,9 @@ function Monster.getTotalMeleeAttackVitaminContribution(self)
 	local minMelee = 0
 	local maxMelee = 0
 	for i = 1, #monsterType:getAttackList() do
-		if monsterType:getAttackList()[i].isMelee == 1 then	
-			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue		
-			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue			
+		if monsterType:getAttackList()[i].isMelee == 1 then
+			minMelee = minMelee - monsterType:getAttackList()[i].minCombatValue
+			maxMelee = maxMelee - monsterType:getAttackList()[i].maxCombatValue
 		end
 	end
 	local aveMelee = (minMelee + maxMelee) / 2
@@ -1707,7 +1707,7 @@ end
 
 function Monster.getTotalMagicAttackPlayerContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicAttackBase() * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1715,7 +1715,7 @@ end
 
 function Monster.getTotalMagicAttackSummonLevelContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicAttackBase() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
 		return math.floor(monsterType:getMoveMagicAttackBase() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
@@ -1725,7 +1725,7 @@ end
 
 function Monster.getTotalMagicAttackSummonBoostContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicAttackBase() * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1733,7 +1733,7 @@ end
 
 function Monster.getTotalMagicAttackVitaminContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local vitamins = self:getUsedVitaminsNumber("magicAttack")
 		if vitamins > 0 then
 			return math.floor(monsterType:getMoveMagicAttackBase() * vitamins / maxVitamins * vitaminStatusBuff)
@@ -1759,7 +1759,7 @@ end
 
 function Monster.getTotalDefensePlayerContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getDefense() * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1767,7 +1767,7 @@ end
 
 function Monster.getTotalDefenseSummonLevelContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getDefense() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
 		return math.floor(monsterType:getDefense() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
@@ -1777,7 +1777,7 @@ end
 
 function Monster.getTotalDefenseSummonBoostContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getDefense() * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1785,7 +1785,7 @@ end
 
 function Monster.getTotalDefenseVitaminContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local vitamins = self:getUsedVitaminsNumber("defense")
 		if vitamins > 0 then
 			return math.floor(monsterType:getDefense() * vitamins / maxVitamins * vitaminStatusBuff)
@@ -1797,7 +1797,7 @@ end
 
 function Monster.getTotalMagicDefense(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local total = math.floor(monsterType:getMoveMagicDefenseBase() * statusGainFormula(self:getMaster():getLevel(), self:getLevel(), self:getBoost(), self:getLove()))
 		local vitamins = self:getUsedVitaminsNumber("magicDefense")
 		if vitamins > 0 then
@@ -1812,7 +1812,7 @@ end
 
 function Monster.getTotalMagicDefensePlayerContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicDefenseBase() * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1820,7 +1820,7 @@ end
 
 function Monster.getTotalMagicDefenseSummonLevelContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicDefenseBase() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
 		return math.floor(monsterType:getMoveMagicDefenseBase() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
@@ -1830,7 +1830,7 @@ end
 
 function Monster.getTotalMagicDefenseSummonBoostContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getMoveMagicDefenseBase() * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1840,7 +1840,7 @@ end
 
 function Monster.getTotalMagicDefenseVitaminContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local vitamins = self:getUsedVitaminsNumber("magicDefense")
 		if vitamins > 0 then
 			return math.floor(monsterType:getMoveMagicDefenseBase() * vitamins / maxVitamins * vitaminStatusBuff)
@@ -1861,7 +1861,7 @@ end
 
 function Monster.getTotalSpeed(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local total = math.floor(monsterType:getBaseSpeed() * statusGainFormula(self:getMaster():getLevel(), self:getLevel(), self:getBoost(), self:getLove()))
 		local vitamins = self:getUsedVitaminsNumber("speed")
 		if vitamins > 0 then
@@ -1876,7 +1876,7 @@ end
 
 function Monster.getTotalSpeedPlayerContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getBaseSpeed() * (statusGainFormula(self:getMaster():getLevel(), 0, 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1884,7 +1884,7 @@ end
 
 function Monster.getTotalSpeedSummonLevelContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getBaseSpeed() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
 	elseif self:isMonster() then
 		return math.floor(monsterType:getBaseSpeed() * (statusGainFormula(0, self:getLevel(), 0, 0) - statusGainFormula(0, 0, 0, 0)))
@@ -1894,7 +1894,7 @@ end
 
 function Monster.getTotalSpeedSummonBoostContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		return math.floor(monsterType:getBaseSpeed() * (statusGainFormula(0, 0, self:getBoost(), 0) - statusGainFormula(0, 0, 0, 0)))
 	end
 	return 0
@@ -1902,7 +1902,7 @@ end
 
 function Monster.getTotalSpeedVitaminContribution(self)
 	local monsterType = MonsterType(self:getName())
-	if self:isPokemon() then 
+	if self:isPokemon() then
 		local vitamins = self:getUsedVitaminsNumber("speed")
 		if vitamins > 0 then
 			return math.floor(monsterType:getBaseSpeed() * vitamins / maxVitamins * vitaminStatusBuff)
@@ -1920,28 +1920,28 @@ end
 function Monster.getMonsterNumber(self)
 	return MonsterType(self:getName()):dexEntry()
 
---	local name = self:getName()
---	local output = 0
---	for _,v in pairs(monsterNumber) do
---		if name == v[1] then
---			output = v[2]
---			break
---		end
---	end 
---	return output
+	--	local name = self:getName()
+	--	local output = 0
+	--	for _,v in pairs(monsterNumber) do
+	--		if name == v[1] then
+	--			output = v[2]
+	--			break
+	--		end
+	--	end
+	--	return output
 end
 
 function MonsterType.getNumber(self)
 	return self:dexEntry()
---	local name = self:getName()
---	local output = 0
---	for _,v in pairs(monsterNumber) do
---		if name == v[1] then
---			output = v[2]
---			break
---		end
---	end 
---	return output
+	--	local name = self:getName()
+	--	local output = 0
+	--	for _,v in pairs(monsterNumber) do
+	--		if name == v[1] then
+	--			output = v[2]
+	--			break
+	--		end
+	--	end
+	--	return output
 end
 
 function hasSummons(cid)
@@ -1955,7 +1955,7 @@ end
 --function MonsterType.getMeleeMaxDamage(self)
 --	for i = 1, #self:getAttackList() do
 --		if self:getAttackList()[i].isMelee == 1 then
---			
+--
 --			return -self:getAttackList()[i].maxCombatValue
 --		end
 --	end
@@ -1975,7 +1975,7 @@ end
 --	local damage = 0
 --	for i = 1, #self:getAttackList() do
 --		if self:getAttackList()[i].isMelee == 0 then
---			damage = damage - self:getAttackList()[i].maxCombatValue 
+--			damage = damage - self:getAttackList()[i].maxCombatValue
 --		end
 --	end
 --	return damage
@@ -1985,7 +1985,7 @@ end
 --	local damage = 0
 --	for i = 1, #self:getAttackList() do
 --		if self:getAttackList()[i].isMelee == 0 then
---			damage = damage - self:getAttackList()[i].minCombatValue 
+--			damage = damage - self:getAttackList()[i].minCombatValue
 --		end
 --	end
 --	return damage
@@ -1997,13 +1997,13 @@ function Player.checkExhaustion(self, storage, delay)
 	else
 		self:sendCancelMessage(RETURNVALUE_YOUAREEXHAUSTED)
 		self:getPosition():sendMagicEffect(CONST_ME_POFF)
-		return true		
+		return true
 	end
 	return false
 end
 
 function Player.checkMoveExhaustion(self, storage, delay)
---	local item = self:getSlotItem(CONST_SLOT_AMMO)
+	--	local item = self:getSlotItem(CONST_SLOT_AMMO)
 	local item = self:getUsingBall()
 	if item then
 		local move = "cd" .. tostring(storage)
@@ -2013,18 +2013,18 @@ function Player.checkMoveExhaustion(self, storage, delay)
 		else
 			self:sendTextMessage(MESSAGE_STATUS_CONSOLE_BLUE, "You must wait " .. math.floor(item:getSpecialAttribute(move) + 1 - os.time()) .. " seconds to use this move again")
 			self:getPosition():sendMagicEffect(CONST_ME_POFF)
-			return true		
+			return true
 		end
 	end
 	return false
 end
 
 function Player.getSummonNameFromBall(self)
---	local item = self:getSlotItem(CONST_SLOT_AMMO)
+	--	local item = self:getSlotItem(CONST_SLOT_AMMO)
 	local item = self:getUsingBall()
 	if item then
 		local pokeName = item:getSpecialAttribute("pokeName")
-		if pokeName ~= nil then			
+		if pokeName ~= nil then
 			return pokeName
 		end
 	end
@@ -2032,11 +2032,11 @@ function Player.getSummonNameFromBall(self)
 end
 
 function Player.getSummonLevelFromBall(self)
---	local item = self:getSlotItem(CONST_SLOT_AMMO)
+	--	local item = self:getSlotItem(CONST_SLOT_AMMO)
 	local item = self:getUsingBall()
 	if item then
 		local pokeLevel = item:getSpecialAttribute("pokeLevel")
-		if pokeLevel ~= nil then			
+		if pokeLevel ~= nil then
 			return pokeLevel
 		end
 	end
@@ -2044,11 +2044,11 @@ function Player.getSummonLevelFromBall(self)
 end
 
 function Player.getSummonBoostFromBall(self)
---	local item = self:getSlotItem(CONST_SLOT_AMMO)
+	--	local item = self:getSlotItem(CONST_SLOT_AMMO)
 	local item = self:getUsingBall()
 	if item then
 		local pokeBoost = item:getSpecialAttribute("pokeBoost")
-		if pokeBoost ~= nil then			
+		if pokeBoost ~= nil then
 			return pokeBoost
 		end
 	end
@@ -2057,7 +2057,7 @@ end
 
 function Player.getUsingBall(self)
 	local pokeballs = self:getPokeballs()
---	local pokeballs = self:getSpecialStorage("pokes") --stability problems
+	--	local pokeballs = self:getSpecialStorage("pokes") --stability problems
 	if not pokeballs then
 		print("WARNING! UsingBall not found player " .. self:getName())
 		return nil
@@ -2071,10 +2071,10 @@ function Player.getUsingBall(self)
 			return ball
 		end
 	end
---	local item = self:getSlotItem(CONST_SLOT_AMMO)
---	if item then
---		return item
---	end
+	--	local item = self:getSlotItem(CONST_SLOT_AMMO)
+	--	if item then
+	--		return item
+	--	end
 end
 
 function MonsterType.getRaceName(self)
@@ -2152,12 +2152,12 @@ end
 --end
 
 function teleportMonster(cid, position)
-    local monster = Monster(cid)
-    if monster then
-        monster:teleportTo(position)
-    end
+	local monster = Monster(cid)
+	if monster then
+		monster:teleportTo(position)
+	end
 end
- 
+
 function Player.getSummon(self)
 	if hasSummons(self) then
 		return self:getSummons()[1]
@@ -2233,10 +2233,10 @@ end
 function Monster.getSummonLevel(self)
 	if self:isPokemon() then
 		local master = self:getMaster()
---		local item = master:getSlotItem(CONST_SLOT_AMMO)
+		--		local item = master:getSlotItem(CONST_SLOT_AMMO)
 		local item = master:getUsingBall()
 		local pokeLevel = item:getSpecialAttribute("pokeLevel")
-		if pokeLevel ~= nil then			
+		if pokeLevel ~= nil then
 			return pokeLevel
 		end
 	elseif isMonster(self) then
@@ -2248,7 +2248,7 @@ end
 function Monster.getSummonBoost(self)
 	if self:isPokemon() then
 		local master = self:getMaster()
---		local item = master:getSlotItem(CONST_SLOT_AMMO)
+		--		local item = master:getSlotItem(CONST_SLOT_AMMO)
 		local item = master:getUsingBall()
 		local pokeBoost = item:getSpecialAttribute("pokeBoost")
 		if pokeBoost ~= nil then
@@ -2261,7 +2261,7 @@ end
 function Monster.getLove(self)
 	if self:isPokemon() then
 		local master = self:getMaster()
---		local item = master:getSlotItem(CONST_SLOT_AMMO)
+		--		local item = master:getSlotItem(CONST_SLOT_AMMO)
 		local item = master:getUsingBall()
 		local pokeLove = item:getSpecialAttribute("pokeLove")
 		if pokeLove ~= nil then
@@ -2274,7 +2274,7 @@ end
 function Monster.getMasterLevel(self)
 	if self:isPokemon() then
 		local master = self:getMaster()
-		if master then			
+		if master then
 			return master:getLevel()
 		end
 	end
@@ -2284,10 +2284,10 @@ end
 function Monster.getSummonName(self)
 	if isSummon(self) then
 		local master = self:getMaster()
---		local item = master:getSlotItem(CONST_SLOT_AMMO)
+		--		local item = master:getSlotItem(CONST_SLOT_AMMO)
 		local item = master:getUsingBall()
 		local pokeName = item:getSpecialAttribute("pokeName")
-		if pokeName ~= nil then			
+		if pokeName ~= nil then
 			return pokeName
 		end
 	end
@@ -2323,11 +2323,11 @@ function doTransformPokeball(item)
 	for key, value in pairs(balls) do
 		if value.usedOn == item:getId() then
 			doTransformItem(item.uid, value.usedOff)
-			return true			
+			return true
 		end
 		if value.usedOff == item:getId() then
 			doTransformItem(item.uid, value.usedOn)
-			return true			
+			return true
 		end
 	end
 	return false
@@ -2336,7 +2336,7 @@ end
 function doReleaseSummon(cid, pos, effect, message, missile)
 	local player = Player(cid)
 	if not player then return false end
---	local ball = player:getSlotItem(CONST_SLOT_AMMO)
+	--	local ball = player:getSlotItem(CONST_SLOT_AMMO)
 	local ball = player:getUsingBall()
 	if not ball then return false end
 	if effect == nil then effect = CONST_ME_TELEPORT end
@@ -2358,19 +2358,19 @@ function doReleaseSummon(cid, pos, effect, message, missile)
 		print("WARNING: Monster " .. name .. " is not convinceable.")
 		player:sendCancelMessage("Sorry, not possible. This problem was reported.")
 		ball:setSpecialAttribute("isBeingUsed", 0)
-		return false 
+		return false
 	end
 	if not monsterType:isIllusionable() then
 		print("WARNING: Monster " .. name .. " is not illusionable.")
 		player:sendCancelMessage("Sorry, not possible. This problem was reported.")
 		ball:setSpecialAttribute("isBeingUsed", 0)
-		return false 
+		return false
 	end
 	if not monsterType:isSummonable() then
 		print("WARNING: Monster " .. name .. " is not illusionable.")
 		player:sendCancelMessage("Sorry, not possible. This problem was reported.")
 		ball:setSpecialAttribute("isBeingUsed", 0)
-		return false 
+		return false
 	end
 
 	local health = ball:getSpecialAttribute("pokeHealth") or 0
@@ -2378,7 +2378,7 @@ function doReleaseSummon(cid, pos, effect, message, missile)
 		player:sendCancelMessage("Sorry, not possible. Your summon is dead.")
 		ball:setSpecialAttribute("isBeingUsed", 0)
 		return true
-	end	
+	end
 
 	local summonLevel = ball:getSpecialAttribute("pokeLevel")
 	local summonBoost = ball:getSpecialAttribute("pokeBoost") or 0
@@ -2412,7 +2412,7 @@ function doReleaseSummon(cid, pos, effect, message, missile)
 		monster:registerEvent("MonsterHealthChange")
 		monster:registerEvent("MonsterDeath")
 
-		local attackers = Game.getSpectators(newPos, true, false) 
+		local attackers = Game.getSpectators(newPos, true, false)
 		for i = 1, #attackers do
 			local attacker = attackers[i]
 			if attacker and attacker:isMonster() then
@@ -2422,9 +2422,9 @@ function doReleaseSummon(cid, pos, effect, message, missile)
 						attacker:addTarget(monster, true)
 						attacker:removeTarget(Creature(player:getId()))
 						attacker:searchTarget()
---						for i = 1, #attacker:getTargetList() do
---							print(attacker:getTargetList()[i]:getName())
---						end
+						--						for i = 1, #attacker:getTargetList() do
+						--							print(attacker:getTargetList()[i]:getName())
+						--						end
 					end
 				end
 			end
@@ -2479,11 +2479,11 @@ function doRemoveSummon(cid, effect, uid, message, missile)
 		return false
 	end
 	local summonPos = summon:getPosition()
-	local attackers = Game.getSpectators(summonPos, true, false) 
+	local attackers = Game.getSpectators(summonPos, true, false)
 	for i = 1, #attackers do
 		local attacker = attackers[i]
 		if attacker and attacker:isMonster() then
---			attacker:say(attacker:getTargetCount(), TALKTYPE_SAY)
+			--			attacker:say(attacker:getTargetCount(), TALKTYPE_SAY)
 			local targetList = attacker:getTargetList()
 			for j = 1, #targetList do
 				if targetList[j] == summon then
@@ -2502,7 +2502,7 @@ function doRemoveSummon(cid, effect, uid, message, missile)
 	summon:unregisterEvent("MonsterGetExperience")
 	summon:unregisterEvent("MonsterHealthChange")
 	player:unregisterEvent("RemoveSummon")
---	local ball = player:getSlotItem(CONST_SLOT_AMMO)
+	--	local ball = player:getSlotItem(CONST_SLOT_AMMO)
 	local ball = player:getUsingBall()
 	if uid and not ball then
 		ball = Item(uid)
@@ -2518,13 +2518,13 @@ function doRemoveSummon(cid, effect, uid, message, missile)
 			print("WARNING! Player " .. player:getName() .. " had problems on remove summon: ball does not exist.")
 		end
 	end
-	if summon:isEvolving() then 
+	if summon:isEvolving() then
 		player:setStorageValue(storageEvolving, -1)
 	end
 	if message then
 		player:say("Thanks, " .. summon:getName() .. "!", TALKTYPE_MONSTER_SAY)
 	end
-	summon:remove()	
+	summon:remove()
 	return true
 end
 
@@ -2534,7 +2534,7 @@ function doEvolveSummon(cid, evolutionName, ancient)
 	local summon = Creature(cid)
 	local master = summon:getMaster()
 	local summonPos = summon:getPosition()
---	local item = master:getSlotItem(CONST_SLOT_AMMO)
+	--	local item = master:getSlotItem(CONST_SLOT_AMMO)
 	local item = master:getUsingBall()
 	if monsterType and summon:isMonster() then
 		master:say("Wow, my " .. summon:getName() .. " is evolving!", TALKTYPE_SAY)
@@ -2546,18 +2546,18 @@ function doEvolveSummon(cid, evolutionName, ancient)
 			item:setSpecialAttribute("owner", master:getName())
 			master:setStorageValue(storageEvolutionAncient, 1)
 		end
---		local portrait = master:getSlotItem(CONST_SLOT_HEAD)
---		local removePortrait = nil
---		if portrait then
---			removePortrait = master:removeItem(portrait:getId(), 1)
---		end
---		local portraitId = monsterType:portraitId()
---		if portraitId ~= 0 then 
---			local putPortrait = master:addItem(portraitId, 1, false, 1, CONST_SLOT_HEAD)
---			if not removePortrait or not putPortrait and master:getSlotItem(CONST_SLOT_HEAD):getId() ~= portraitId then
---				print("WARNING! Problem on put portrait after evolution " .. evolutionName .. " player " .. master:getName())
---			end
---		end
+		--		local portrait = master:getSlotItem(CONST_SLOT_HEAD)
+		--		local removePortrait = nil
+		--		if portrait then
+		--			removePortrait = master:removeItem(portrait:getId(), 1)
+		--		end
+		--		local portraitId = monsterType:portraitId()
+		--		if portraitId ~= 0 then
+		--			local putPortrait = master:addItem(portraitId, 1, false, 1, CONST_SLOT_HEAD)
+		--			if not removePortrait or not putPortrait and master:getSlotItem(CONST_SLOT_HEAD):getId() ~= portraitId then
+		--				print("WARNING! Problem on put portrait after evolution " .. evolutionName .. " player " .. master:getName())
+		--			end
+		--		end
 
 		local baseHealth = MonsterType(evolutionName):getMaxHealth()
 		local newMaxHealth = math.floor(baseHealth * statusGainFormula(master:getLevel(), item:getSpecialAttribute("pokeLevel"), item:getSpecialAttribute("pokeBoost"), item:getSpecialAttribute("pokeLove") or 0))
@@ -2614,7 +2614,7 @@ end
 function Item.isPokeball(self)
 	for key, value in pairs(balls) do
 		if value.usedOn == self:getId() or value.usedOff == self:getId() then
-			return true			
+			return true
 		end
 	end
 	return false
@@ -2625,10 +2625,10 @@ function doAddPokeball(cid, name, level, boost, ballKey, dp, msg)
 	if player then
 		name = firstToUpper(name)
 		local monsterType = MonsterType(name)
-		if not monsterType then 
-			print("WARNING: Monster " .. name .. " impossible to catch.") 
+		if not monsterType then
+			print("WARNING: Monster " .. name .. " impossible to catch.")
 			player:sendCancelMessage("Sorry, not possible. This problem was reported.")
-			return false 
+			return false
 		end
 		local addBall
 		if dp == false then
@@ -2642,7 +2642,7 @@ function doAddPokeball(cid, name, level, boost, ballKey, dp, msg)
 				local depot = player:getInbox()
 				addBall = depot:addItem(balls[ballKey].usedOn, 1, INDEX_WHEREEVER, FLAG_NOLIMIT)
 				addEvent(doPlayerSendTextMessage, msg, cid, MESSAGE_EVENT_ADVANCE, "Since you are at maximum capacity, your ball was sent to CP.")
---				print("WARNING! Player " .. player:getName() .. " sending pokemon " .. name .. " to CP after first try.")
+				--				print("WARNING! Player " .. player:getName() .. " sending pokemon " .. name .. " to CP after first try.")
 				dp = true
 			else
 				addBall = player:addItem(balls[ballKey].usedOn, 1)
@@ -2669,14 +2669,14 @@ function doAddPokeball(cid, name, level, boost, ballKey, dp, msg)
 		end
 	end
 	print("WARNING! Player not found to add pokeball.")
-	return false	
+	return false
 end
 
 function Player.getPokeballCount(self)
 	local nBalls = 0
 	for key, value in pairs(balls) do
 		nBalls = nBalls + self:getItemCount(value.usedOn) + self:getItemCount(value.usedOff)
-	end	
+	end
 	return nBalls
 end
 
@@ -2709,8 +2709,8 @@ function Item.isStone(self)
 end
 
 function doSendAurea(cid)
-	local monster = Monster(cid)	
-	if monster then		
+	local monster = Monster(cid)
+	if monster then
 		monster:getPosition():sendMagicEffect(475)
 		doStartAurea(monster)
 	end
@@ -2722,18 +2722,18 @@ end
 
 function Container.getPokeballs(self)
 	local ret = {}
-		local size = self:getSize()
-		for i = size - 1, 0, -1 do
-			local item = self:getItem(i)
-			if item:isPokeball() then
-				table.insert(ret, item)
-			elseif item:isContainer() then
-				local itemsInside = item:getPokeballs()
-				for i=0, #itemsInside do
-					table.insert(ret, itemsInside[i])
-				end
+	local size = self:getSize()
+	for i = size - 1, 0, -1 do
+		local item = self:getItem(i)
+		if item:isPokeball() then
+			table.insert(ret, item)
+		elseif item:isContainer() then
+			local itemsInside = item:getPokeballs()
+			for i=0, #itemsInside do
+				table.insert(ret, itemsInside[i])
 			end
 		end
+	end
 	return ret
 end
 
@@ -2743,7 +2743,7 @@ function Player.getPokeballs(self)
 	local backpack = self:getSlotItem(CONST_SLOT_BACKPACK)
 	if backpack then
 		pokeballs = backpack:getPokeballs()
-	end	
+	end
 
 	local ballOn = self:getSlotItem(CONST_SLOT_AMMO)
 	if ballOn and ballOn:isPokeball() then
@@ -2768,7 +2768,7 @@ function Player.updateQuestLog(self)
 end
 
 function firstToUpper(str)
-    return (str:gsub("^%l", string.upper))
+	return (str:gsub("^%l", string.upper))
 end
 
 function Position:createFlyFloor()
@@ -2779,22 +2779,22 @@ function Position:createFlyFloor()
 	end
 	return true
 end
- 
+
 function Tile:hasValidGround()
 	local ground = self:getGround()
 	local nilItem = self:getItemById(flyFloor)
 	if ground and not nilItem then
 		return true
-	end 
+	end
 	return false
 end
- 
+
 function Player:activateFly()
 	self:setStorageValue(storageFly, 1)
 	self:registerEvent("FlyEvent")
 	return true
 end
- 
+
 function Player:deactivateFly()
 	local can, floor = self:canDeactivateFly()
 	local pos = self:getPosition()
@@ -2810,65 +2810,65 @@ function Player:deactivateFly()
 			self:teleportTo(pos)
 			pos:sendMagicEffect(CONST_ME_TELEPORT)
 		end
-	end 
+	end
 	return can
 end
 
 function Player:canDeactivateFly()
-    local pos = self:getPosition()
---    for z = pos.z, 15 do
-        local tmp = Tile(pos.x, pos.y, pos.z)
-        if tmp and tmp:hasValidGround() then
-            if self:canFlyDown(pos.z) then
-                return true, pos.z
-            else
-                return false
-            end
-        end
---    end
- 
-    return false
+	local pos = self:getPosition()
+	--    for z = pos.z, 15 do
+	local tmp = Tile(pos.x, pos.y, pos.z)
+	if tmp and tmp:hasValidGround() then
+		if self:canFlyDown(pos.z) then
+			return true, pos.z
+		else
+			return false
+		end
+	end
+	--    end
+
+	return false
 end
- 
+
 function Player:canFlyUp()
 	local pos = self:getPosition()
 	local tmp = Tile(pos.x, pos.y, pos.z-1)
 	if tmp and tmp:hasValidGround() then
 		return false
-	end 
+	end
 	tmp = Tile(pos.x, pos.y, pos.z-1)
 
 	if tmp and (tmp:getHouse() or tmp:hasFlag(TILESTATE_PROTECTIONZONE) or tmp:hasFlag(TILESTATE_FLOORCHANGE) or tmp:hasFlag(TILESTATE_BLOCKSOLID) ) then
 		return false
-	end 
+	end
 
 	if tmp and tmp:getGround() and isInArray(waterIds, tmp:getGround():getId()) then
 		return false
 	end
 	return true
 end
- 
+
 function Player:canFlyDown(floor)
 	local pos = self:getPosition()
 	local tmp = Tile(pos)
 	if floor and floor == pos.z then
 		return true
-	end 
+	end
 	if tmp:hasValidGround() then
 		return false
-	end 
+	end
 	tmp = Tile(pos.x, pos.y, floor or pos.z+1)
 
 	if tmp and (tmp:getHouse() or tmp:hasFlag(TILESTATE_PROTECTIONZONE) or tmp:hasFlag(TILESTATE_FLOORCHANGE) or tmp:hasFlag(TILESTATE_BLOCKSOLID) ) then
 		return false
-	end 
+	end
 
 	if tmp and tmp:getGround() and isInArray(waterIds, tmp:getGround():getId()) then
 		return false
 	end
-    return true
+	return true
 end
- 
+
 function Player:flyUp()
 	if self:isOnFly() then
 		if self:canFlyUp() then
@@ -2877,20 +2877,20 @@ function Player:flyUp()
 			local itemfloor = tile:getItemById(flyFloor)
 			if itemfloor then
 				itemfloor:remove()
-			end 
+			end
 			pos.z = pos.z-1
 			pos:createFlyFloor()
 			self:teleportTo(pos)
-			pos:sendMagicEffect(CONST_ME_TELEPORT) 
+			pos:sendMagicEffect(CONST_ME_TELEPORT)
 			return true
-		end 
+		end
 		return false
 	else
 		self:sendCancelMessage("You are not flying.")
 		return false
 	end
 end
- 
+
 function Player:flyDown()
 	if self:isOnFly() then
 		if self:canFlyDown() then
@@ -2899,13 +2899,13 @@ function Player:flyDown()
 			local itemfloor = tile:getItemById(flyFloor)
 			if itemfloor then
 				itemfloor:remove()
-			end 
+			end
 			pos.z = pos.z+1
 			pos:createFlyFloor()
 			self:teleportTo(pos)
 			pos:sendMagicEffect(CONST_ME_TELEPORT)
 			return true
-		end 
+		end
 		return false
 	else
 		self:sendCancelMessage("You are not flying.")
@@ -3020,7 +3020,7 @@ function Player:increaseDuelWithNpcStatus()
 		self:setStorageValue(storageDuelNpcStatus, 1)
 	else
 		self:setStorageValue(storageDuelNpcStatus, self:getStorageValue(storageDuelNpcStatus) + 1)
-	end	
+	end
 	return true
 end
 
@@ -3050,7 +3050,7 @@ function Player:giveQuestPrize(uid, ignore)
 							end
 							for i = 1, #value.prizes[j].pokes do
 								local dp = 1
-								local container = self:getSlotItem(CONST_SLOT_BACKPACK)							
+								local container = self:getSlotItem(CONST_SLOT_BACKPACK)
 								if self:getFreeCapacity() >= 1 and container and container:getEmptySlots() > 0 then
 									dp = 0
 								end
@@ -3062,7 +3062,7 @@ function Player:giveQuestPrize(uid, ignore)
 								self:sendTextMessage(MESSAGE_INFO_DESCR, msg)
 
 							end
-							
+
 							for i = 1, #value.prizes[j].items do
 								self:addItem(value.prizes[j].items[i].item, value.prizes[j].items[i].count)
 								self:sendTextMessage(MESSAGE_INFO_DESCR, 'You have found: ' .. value.prizes[j].items[i].count .. " " .. ItemType(value.prizes[j].items[i].item):getName() .. '.')
@@ -3134,9 +3134,9 @@ function Position:getClosestTownId()
 	local min = distances[key]
 
 	for k, v in pairs(distances) do
-	    if distances[k] < min then
-		key, min = k, v
-	    end
+		if distances[k] < min then
+			key, min = k, v
+		end
 	end
 
 	return key
@@ -3163,33 +3163,33 @@ function Player:refreshPokemonBar(add, remove)
 				table.insert(pokemonsTable, "," .. pokeName)
 			end
 		end
-		
+
 	end
 	for i = 1, #add do
 		table.insert(pokemonsTable, "," .. add[i])
 	end
 	table.insert(pokemonsTable, ",")
 	self:sendExtendedOpcode(53, table.concat(pokemonsTable))
---	self:setSpecialStorage("pokes", pokeballs)
+	--	self:setSpecialStorage("pokes", pokeballs)
 	return true
 end
 
 function Player:isSummonBlocked()
---	if os.time() > self:getStorageValue(storageDelay) then
---	       	self:setStorageValue(storageDelay, os.time() + delay)
---	else
---		self:sendCancelMessage(RETURNVALUE_YOUAREEXHAUSTED)
---		return true
---	end
+	--	if os.time() > self:getStorageValue(storageDelay) then
+	--	       	self:setStorageValue(storageDelay, os.time() + delay)
+	--	else
+	--		self:sendCancelMessage(RETURNVALUE_YOUAREEXHAUSTED)
+	--		return true
+	--	end
 
---	if item ~= self:getSlotItem(CONST_SLOT_AMMO) then
---		self:sendCancelMessage("Sorry, not possible. Please put the pokeball in the right place.")
---              return true
---	end
+	--	if item ~= self:getSlotItem(CONST_SLOT_AMMO) then
+	--		self:sendCancelMessage("Sorry, not possible. Please put the pokeball in the right place.")
+	--              return true
+	--	end
 
 	if self:getSlotItem(CONST_SLOT_LEFT) == nil then
 		self:sendCancelMessage("Sorry, not possible. You need a wand to control your summon.")
-                return true
+		return true
 	end
 
 	if self:getStorageValue(storageRide) == 1 then
@@ -3288,7 +3288,7 @@ function Player:getCatchRemain(table)
 	for i = 1, #table do
 		if self:getStorageValue(baseStorageCatches + table[i]) <= 0 then
 			catchRemain = catchRemain + 1
---			msg = msg .. "[" .. table[i] .. "] " .. monsterNumber[table[i]][1] .. "\n"
+			--			msg = msg .. "[" .. table[i] .. "] " .. monsterNumber[table[i]][1] .. "\n"
 			msg = msg .. "[" .. table[i] .. "] " .. monstersTable[tonumber(table[i])] .. "\n"
 		end
 	end
@@ -3306,8 +3306,8 @@ function Monster:getUsedVitaminsNumber(status)
 		if item then
 			total = item:getSpecialAttribute(status)
 			if not total or total < 0 then total = 0 end
-		end		
-	end	
+		end
+	end
 	return total
 end
 
@@ -3321,7 +3321,7 @@ function Monster:increaseUsedVitaminsNumber()
 				item:setSpecialAttribute("vitTotal", total + 1)
 				return true
 			end
-		end		
+		end
 	end
 	return false
 end
@@ -3341,7 +3341,7 @@ function Monster:increaseStatus(statusName)
 				doReleaseSummon(master:getId(), self:getPosition(), false, false)
 			end
 			return true
-		end		
+		end
 	end
 	return false
 end

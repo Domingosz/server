@@ -2945,19 +2945,109 @@
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
-	</item> 
-	<item id="26863" article="a" name="slain ivysaur">
-		<attribute key="weight" value="20000" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="600" />
-		<attribute key="corpseType" value="blood" />
-	</item> 
+	</item>
+    <item id="38897" article="a" name="amber bulbasaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38898" article="a" name="crimson bulbasaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38899" article="a" name="pink bulbasaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38900" article="a" name="emerald bulbasaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38901" article="a" name="sapphire bulbasaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="26863" article="a" name="slain ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38902" article="a" name="amber ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38906" article="a" name="crimson ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38905" article="a" name="pink ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38904" article="a" name="emerald ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38903" article="a" name="sapphire ivysaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
 	<item id="26864" article="a" name="slain venusaur">
 		<attribute key="weight" value="20000" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
-	</item> 
+	</item>
+    <item id="38907" article="a" name="amber venusaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38908" article="a" name="crimson venusaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38909" article="a" name="pink venusaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38910" article="a" name="emerald venusaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
+    <item id="38911" article="a" name="sapphire venusaur">
+        <attribute key="weight" value="20000" />
+        <attribute key="decayTo" value="0" />
+        <attribute key="duration" value="600" />
+        <attribute key="corpseType" value="blood" />
+    </item>
 	<item id="26865" article="a" name="slain charmander">
 		<attribute key="weight" value="20000" />
 		<attribute key="decayTo" value="0" />
@@ -5251,12 +5341,6 @@
 		<attribute key="corpseType" value="blood" />
 	</item> 
 	<item id="27958" article="a" name="slain deoxys">
-		<attribute key="weight" value="20000" />
-		<attribute key="decayTo" value="0" />
-		<attribute key="duration" value="600" />
-		<attribute key="corpseType" value="blood" />
-	</item> 
-	<item id="27501" article="a" name="slain shiny bulbasaur">
 		<attribute key="weight" value="20000" />
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="600" />

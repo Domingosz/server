@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Ivysaur" nameDescription="an ivysaur" race="grass" race2="poison" experience="42" speed="40" manacost="0">
+<monster name="Ivysaur" nameDescription="an ivysaur" race="grass" race2="poison" experience="42" speed="120" manacost="0">
 	<level min="30" max="40"/>
-	<health now="200" max="200" />
+	<health now="1275" max="1275" />
 	<look type="905" head="113" body="57" legs="95" feet="113" corpse="26863" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -26,8 +26,8 @@
 		<flag surfable="0" />
 		<flag canteleport="0" />
 		<flag catchchance="17" />
-		<flag moveMagicAttackBase="50" />
-		<flag moveMagicDefenseBase="50" />
+		<flag moveMagicAttackBase="80" />
+		<flag moveMagicDefenseBase="80" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
@@ -50,7 +50,7 @@
 
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-40" max="-40" />
+		<attack name="melee" interval="2000" min="-62" max="-62" />
 		<attack name="tackle" interval="3000" chance="40" range="1" target="1"/>
 		<attack name="leech seed" interval="10000" chance="40" target="1"/>
 		<attack name="vine whip" interval="9000" chance="40"/>
@@ -59,7 +59,7 @@
 		<attack name="sleep powder" interval="20000" chance="40"/>
 
 	</attacks>
-	<defenses armor="0" defense="40" >
+	<defenses armor="0" defense="63" >
 
 	</defenses>
 	<elements>
