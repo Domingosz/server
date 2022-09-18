@@ -14,6 +14,11 @@
 	<monster name="Emerald Ivysaur" file="Pokes1/emerald ivysaur.xml" />
 	<monster name="Sapphire Ivysaur" file="Pokes1/sapphire ivysaur.xml" />
 	<monster name="Venusaur" file="Pokes1/venusaur.xml" />
+	<monster name="Amber Venusaur" file="Pokes1/amber venusaur.xml" />
+	<monster name="Crimson Venusaur" file="Pokes1/crimson venusaur.xml" />
+	<monster name="Pink Venusaur" file="Pokes1/pink venusaur.xml" />
+	<monster name="Emerald Venusaur" file="Pokes1/emerald venusaur.xml" />
+	<monster name="Sapphire Venusaur" file="Pokes1/sapphire venusaur.xml" />
 	<monster name="Charmander" file="Pokes1/charmander.xml" />
 	<monster name="Charmeleon" file="Pokes1/charmeleon.xml" />
 	<monster name="Charizard" file="Pokes1/charizard.xml" />
