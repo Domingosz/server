@@ -4,3 +4,4 @@ vc14/*
 CMakeLists.txt
 libmysql.dll
 pokedashpota_win64.exe
+.idea/*

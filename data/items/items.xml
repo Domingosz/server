@@ -2946,31 +2946,31 @@
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
 	</item>
-    <item id="38897" article="a" name="amber bulbasaur">
+    <item id="38897" article="a" name="slain amber bulbasaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38898" article="a" name="crimson bulbasaur">
+    <item id="38898" article="a" name="slain crimson bulbasaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38899" article="a" name="pink bulbasaur">
+    <item id="38899" article="a" name="slain pink bulbasaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38900" article="a" name="emerald bulbasaur">
+    <item id="38900" article="a" name="slain emerald bulbasaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38901" article="a" name="sapphire bulbasaur">
+    <item id="38901" article="a" name="slain sapphire bulbasaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
@@ -2982,31 +2982,31 @@
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38902" article="a" name="amber ivysaur">
+    <item id="38902" article="a" name="slain amber ivysaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38906" article="a" name="crimson ivysaur">
+    <item id="38906" article="a" name="slain crimson ivysaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38905" article="a" name="pink ivysaur">
+    <item id="38905" article="a" name="slain pink ivysaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38904" article="a" name="emerald ivysaur">
+    <item id="38904" article="a" name="slain emerald ivysaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38903" article="a" name="sapphire ivysaur">
+    <item id="38903" article="a" name="slain sapphire ivysaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
@@ -3018,31 +3018,31 @@
 		<attribute key="duration" value="600" />
 		<attribute key="corpseType" value="blood" />
 	</item>
-    <item id="38907" article="a" name="amber venusaur">
+    <item id="38907" article="a" name="slain amber venusaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38908" article="a" name="crimson venusaur">
+    <item id="38908" article="a" name="slain crimson venusaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38909" article="a" name="pink venusaur">
+    <item id="38909" article="a" name="slain pink venusaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38910" article="a" name="emerald venusaur">
+    <item id="38910" article="a" name="slain emerald venusaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
         <attribute key="corpseType" value="blood" />
     </item>
-    <item id="38911" article="a" name="sapphire venusaur">
+    <item id="38911" article="a" name="slain sapphire venusaur">
         <attribute key="weight" value="20000" />
         <attribute key="decayTo" value="0" />
         <attribute key="duration" value="600" />
@@ -22008,7 +22008,7 @@
 
 		<attribute key="extradef" value="2" />
 	</item>
-	<item id="7385" article="a" name="crimson sword">
+	<item id="7385" article="a" name="slain crimson sword">
 		<attribute key="description" value="Its blade is very notchy." />
 		<attribute key="weight" value="3600" />
 		<attribute key="defense" value="20" />
@@ -24477,7 +24477,7 @@
 		<attribute key="decayTo" value="0" />
 		<attribute key="duration" value="120" />
 	</item>
-	<item id="8209" article="a" name="crimson sword">
+	<item id="8209" article="a" name="slain crimson sword">
 		<attribute key="weight" value="3600" />
 		<attribute key="defense" value="20" />
 		<attribute key="attack" value="28" />
@@ -29619,7 +29619,7 @@
 		<attribute key="weight" value="1800" />
 		<attribute key="description" value="A goblet forged by the dragon Khax that represents all the knowledge and wisdom." />
 	</item>
-	<item id="11395" article="a" name="crimson sword">
+	<item id="11395" article="a" name="slain crimson sword">
 		<attribute key="weight" value="3600" />
 		<attribute key="defense" value="20" />
 		<attribute key="attack" value="28" />
@@ -39415,8 +39415,8 @@
 	<item id="22534" article="a" name="silencer claws">
 		<attribute key="weight" value="420" />
 	</item>
-	<item id="22535" article="a" name="silencer resonating chamber">
-		<attribute key="description" value="Blowing this fragile resonance chamber from an elevated place is likely to attract other silencers." />
+	<item id="22535" article="a" name="silencer resonating ch amber">
+		<attribute key="description" value="Blowing this fragile resonance ch amber from an elevated place is likely to attract other silencers." />
 		<attribute key="weight" value="350" />
 	</item>
 	<item id="22536" article="a" name="dead weight">
