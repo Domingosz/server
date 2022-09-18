@@ -299,6 +299,7 @@ local randomShiny =
 {
 	["Bulbasaur"] = {'amber bulbasaur', 'crimson bulbasaur', 'pink bulbasaur', 'emerald bulbasaur', 'sapphire bulbasaur'},
 	["Ivysaur"] = {'amber ivysaur', 'crimson ivysaur', 'pink ivysaur', 'emerald ivysaur', 'sapphire ivysaur'},
+	["Venusaur"] = {'amber venusaur', 'crimson venusaur', 'pink venusaur', 'emerald venusaur', 'sapphire venusaur'},
 }
 
 function Monster:onSpawn(position, startup, artificial)
