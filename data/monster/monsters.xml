@@ -92,6 +92,7 @@
 	<monster name="Geodude" file="Pokes1/geodude.xml" />
 	<monster name="Graveler" file="Pokes1/graveler.xml" />
 	<monster name="Golem" file="Pokes1/golem.xml" />
+	<monster name="Crystal Golem" file="Pokes1/crystal golem.xml" />
 	<monster name="Ponyta" file="Pokes1/ponyta.xml" />
 	<monster name="Rapidash" file="Pokes1/rapidash.xml" />
 	<monster name="Slowpoke" file="Pokes1/slowpoke.xml" />

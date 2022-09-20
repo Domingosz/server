@@ -53,8 +53,8 @@ timeBetweenExActions = 500
 
 -- Map
 -- NOTE: set mapName WITHOUT .otbm at the end
-mapName = "global_dash"
-mapAuthor = "Komic"
+mapName = "kutas"
+mapAuthor = "Djalmin"
 
 -- Market
 marketOfferDuration = 30 * 24 * 60 * 60
