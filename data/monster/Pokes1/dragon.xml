@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Crystal Golem" nameDescription="a crystal golem" race="rock" race2="ground" experience="51" speed="90" manacost="0">
-	<level min="40" max="50"/>
+<monster name="Dragon" nameDescription="a dragon" race="rock" race2="ground" experience="500" speed="40" manacost="0">
+	<level min="100" max="100"/>
 	<health now="1700" max="1700" />
-	<look type="3396" head="113" body="57" legs="95" feet="113" corpse="38912" />
+	<look type="3397" head="113" body="57" legs="95" feet="113" corpse="38913" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
 		<flag summonable="1" />
@@ -25,7 +25,7 @@
 		<flag rideable="0" />
 		<flag surfable="0" />
 		<flag canteleport="0" />
-		<flag catchchance="11" />
+		<flag catchchance="0" />
 		<flag moveMagicAttackBase="55" />
 		<flag moveMagicDefenseBase="65" />
 	</flags>
@@ -57,8 +57,8 @@
 		<attack name="smack down" interval="7000" chance="40" range="1" target="1"/>
 		<attack name="rollout" interval="14000" chance="40"/>
 		<attack name="stone edge" interval="5000" chance="40" target="1"/>
-		<attack name="earthquake" interval="20000" chance="40"/>
-		<attack name="passive rock" interval="40000" chance="40"/>
+		<attack name="earthquake" interval="8000" chance="80"/>
+		<attack name="passive rock" interval="20000" chance="80"/>
 
 	</attacks>
 	<defenses armor="0" defense="130" >
@@ -71,7 +71,7 @@
 
 	</immunities>
 	<voices interval="5000" chance="10">
-		<voice sentence="GOLEM!" />
+		<voice sentence="DRAGON!" />
 	</voices>
 	<loot>
 		<item name="rock stone" countmax="1" chance="225"/>

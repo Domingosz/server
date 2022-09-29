@@ -20,11 +20,41 @@
 	<monster name="Emerald Venusaur" file="Pokes1/emerald venusaur.xml" />
 	<monster name="Sapphire Venusaur" file="Pokes1/sapphire venusaur.xml" />
 	<monster name="Charmander" file="Pokes1/charmander.xml" />
+	<monster name="Amber Charmander" file="Pokes1/amber charmander.xml" />
+	<monster name="Crimson Charmander" file="Pokes1/crimson charmander.xml" />
+	<monster name="Pink Charmander" file="Pokes1/pink charmander.xml" />
+	<monster name="Emerald Charmander" file="Pokes1/emerald charmander.xml" />
+	<monster name="Sapphire Charmander" file="Pokes1/sapphire charmander.xml" />
 	<monster name="Charmeleon" file="Pokes1/charmeleon.xml" />
+	<monster name="Amber Charmeleon" file="Pokes1/amber charmeleon.xml" />
+	<monster name="Crimson Charmeleon" file="Pokes1/crimson charmeleon.xml" />
+	<monster name="Pink Charmeleon" file="Pokes1/pink charmeleon.xml" />
+	<monster name="Emerald Charmeleon" file="Pokes1/emerald charmeleon.xml" />
+	<monster name="Sapphire Charmeleon" file="Pokes1/sapphire charmeleon.xml" />
 	<monster name="Charizard" file="Pokes1/charizard.xml" />
+	<monster name="Amber Charizard" file="Pokes1/amber charizard.xml" />
+	<monster name="Crimson Charizard" file="Pokes1/crimson charizard.xml" />
+	<monster name="Pink Charizard" file="Pokes1/pink charizard.xml" />
+	<monster name="Emerald Charizard" file="Pokes1/emerald charizard.xml" />
+	<monster name="Sapphire Charizard" file="Pokes1/sapphire charizard.xml" />
 	<monster name="Squirtle" file="Pokes1/squirtle.xml" />
+	<monster name="Amber Squirtle" file="Pokes1/amber squirtle.xml" />
+	<monster name="Crimson Squirtle" file="Pokes1/crimson squirtle.xml" />
+	<monster name="Pink Squirtle" file="Pokes1/pink squirtle.xml" />
+	<monster name="Emerald Squirtle" file="Pokes1/emerald squirtle.xml" />
+	<monster name="Sapphire Squirtle" file="Pokes1/sapphire squirtle.xml" />
 	<monster name="Wartortle" file="Pokes1/wartortle.xml" />
+	<monster name="Amber Wartortle" file="Pokes1/amber wartortle.xml" />
+	<monster name="Crimson Wartortle" file="Pokes1/crimson wartortle.xml" />
+	<monster name="Pink Wartortle" file="Pokes1/pink wartortle.xml" />
+	<monster name="Emerald Wartortle" file="Pokes1/emerald wartortle.xml" />
+	<monster name="Sapphire Wartortle" file="Pokes1/sapphire wartortle.xml" />
 	<monster name="Blastoise" file="Pokes1/blastoise.xml" />
+	<monster name="Amber Blastoise" file="Pokes1/amber blastoise.xml" />
+	<monster name="Crimson Blastoise" file="Pokes1/crimson blastoise.xml" />
+	<monster name="Pink Blastoise" file="Pokes1/pink blastoise.xml" />
+	<monster name="Emerald Blastoise" file="Pokes1/emerald blastoise.xml" />
+	<monster name="Sapphire Blastoise" file="Pokes1/sapphire blastoise.xml" />
 	<monster name="Caterpie" file="Pokes1/caterpie.xml" />
 	<monster name="Metapod" file="Pokes1/metapod.xml" />
 	<monster name="Butterfree" file="Pokes1/butterfree.xml" />
@@ -168,6 +198,7 @@
 	<monster name="Dragonite" file="Pokes1/dragonite.xml" />
 	<monster name="Mewtwo" file="Pokes1/mewtwo.xml" />
 	<monster name="Mew" file="Pokes1/mew.xml" />
+	<monster name="Dragon" file="Pokes1/dragon.xml" />
 	<monster name="Chikorita" file="Pokes1/chikorita.xml" />
 	<monster name="Bayleef" file="Pokes1/bayleef.xml" />
 	<monster name="Meganium" file="Pokes1/meganium.xml" />
