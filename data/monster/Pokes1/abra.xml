@@ -2,10 +2,7 @@
 <monster name="Abra" nameDescription="an abra" race="psychic" race2="none" experience="31" speed="180" manacost="0">
 	<level min="10" max="25"/>
 	<health now="527" max="527" />
-	<look type="3397" head="113" body="57" legs="95" feet="113" corpse="26924" />
-	<!--
 	<look type="966" head="113" body="57" legs="95" feet="113" corpse="26924" />
-	-->
 	<targetchange interval="5000" chance="0" />
 	<flags>
 		<flag summonable="1" />

@@ -2,7 +2,7 @@
 <monster name="Amethyst Fearow" nameDescription="an amethyst fearow" race="flying" race2="normal" experience="45" speed="200" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1377" max="1377" />
-	<look type="3490" head="113" body="57" legs="95" feet="113" corpse="26883" />
+	<look type="3524" head="113" body="57" legs="95" feet="113" corpse="26883" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
 		<flag summonable="1" />

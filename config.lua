@@ -1,6 +1,6 @@
 monsterLevelDamage = 0.02 -- 2% bonus damage per level
 monsterLevelExp = 0.10 -- 10% bonus exp per level
-monsterLevelSpeed = 0.1 -- 3% bonus speed per level
+monsterLevelSpeed = 0 --/// 0.1 -- 3% bonus speed per level
 monsterLevelHealth = 0.05 -- 5% bonus health per level
 monsterLevelLoot = 0.01 -- 1% bonus loot per level
 monsterPrefix = "" -- Ghoul [Lv 100]

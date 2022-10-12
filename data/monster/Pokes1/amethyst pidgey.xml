@@ -2,7 +2,7 @@
 <monster name="Amethyst Pidgey" nameDescription="an amethyst pidgey" race="flying" race2="normal" experience="26" speed="112" manacost="0">
 	<level min="1" max="10"/>
 	<health now="850" max="850" />
-	<look type="3460" head="113" body="57" legs="95" feet="113" corpse="26877" />
+	<look type="3525" head="113" body="57" legs="95" feet="113" corpse="26877" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
 		<flag summonable="1" />

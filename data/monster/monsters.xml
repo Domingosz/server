@@ -158,13 +158,55 @@
 	<monster name="Emerald Raichu" file="Pokes1/emerald raichu.xml" />
 	<monster name="Sapphire Raichu" file="Pokes1/sapphire raichu.xml" />
 	<monster name="Sandshrew" file="Pokes1/sandshrew.xml" />
+	<monster name="Amber Sandshrew" file="Pokes1/amber sandshrew.xml" />
+	<monster name="Crimson Sandshrew" file="Pokes1/crimson sandshrew.xml" />
+	<monster name="Amethyst Sandshrew" file="Pokes1/amethyst sandshrew.xml" />
+	<monster name="Emerald Sandshrew" file="Pokes1/emerald sandshrew.xml" />
+	<monster name="Sapphire Sandshrew" file="Pokes1/sapphire sandshrew.xml" />
 	<monster name="Sandslash" file="Pokes1/sandslash.xml" />
-	<monster name="Nidoran Female" file="Pokes1/nidoran female.xml" />
+	<monster name="Amber Sandslash" file="Pokes1/amber sandslash.xml" />
+	<monster name="Crimson Sandslash" file="Pokes1/crimson sandslash.xml" />
+	<monster name="Amethyst Sandslash" file="Pokes1/amethyst sandslash.xml" />
+	<monster name="Emerald Sandslash" file="Pokes1/emerald sandslash.xml" />
+	<monster name="Sapphire Sandslash" file="Pokes1/sapphire sandslash.xml" />
+	<monster name="Nidoran X" file="Pokes1/nidoran x.xml" />
+	<monster name="Amber Nidoran X" file="Pokes1/amber nidoran x.xml" />
+	<monster name="Crimson Nidoran X" file="Pokes1/crimson nidoran x.xml" />
+	<monster name="Amethyst Nidoran X" file="Pokes1/amethyst nidoran x.xml" />
+	<monster name="Emerald Nidoran X" file="Pokes1/emerald nidoran x.xml" />
+	<monster name="Sapphire Nidoran X" file="Pokes1/sapphire nidoran x.xml" />
 	<monster name="Nidorina" file="Pokes1/nidorina.xml" />
+	<monster name="Amber Nidorina" file="Pokes1/amber nidorina.xml" />
+	<monster name="Crimson Nidorina" file="Pokes1/crimson nidorina.xml" />
+	<monster name="Amethyst Nidorina" file="Pokes1/amethyst nidorina.xml" />
+	<monster name="Emerald Nidorina" file="Pokes1/emerald nidorina.xml" />
+	<monster name="Sapphire Nidorina" file="Pokes1/sapphire nidorina.xml" />
 	<monster name="Nidoqueen" file="Pokes1/nidoqueen.xml" />
-	<monster name="Nidoran Male" file="Pokes1/nidoran male.xml" />
+	<monster name="Amber Nidoqueen" file="Pokes1/amber nidoqueen.xml" />
+	<monster name="Crimson Nidoqueen" file="Pokes1/crimson nidoqueen.xml" />
+	<monster name="Amethyst Nidoqueen" file="Pokes1/amethyst nidoqueen.xml" />
+	<monster name="Emerald Nidoqueen" file="Pokes1/emerald nidoqueen.xml" />
+	<monster name="Sapphire Nidoqueen" file="Pokes1/sapphire nidoqueen.xml" />
+	<monster name="Nidoran Y" file="Pokes1/nidoran y.xml" />
+	<monster name="Amber Nidoran Y" file="Pokes1/amber Nidoran Y.xml" />
+	<monster name="Crimson Nidoran Y" file="Pokes1/crimson Nidoran Y.xml" />
+	<monster name="Amethyst Nidoran Y" file="Pokes1/amethyst Nidoran Y.xml" />
+	<monster name="Emerald Nidoran Y" file="Pokes1/emerald Nidoran Y.xml" />
+	<monster name="Sapphire Nidoran Y" file="Pokes1/sapphire Nidoran Y.xml" />
+
 	<monster name="Nidorino" file="Pokes1/nidorino.xml" />
+	<monster name="Amber Nidorino" file="Pokes1/amber nidorino.xml" />
+	<monster name="Crimson Nidorino" file="Pokes1/crimson nidorino.xml" />
+	<monster name="Amethyst Nidorino" file="Pokes1/amethyst nidorino.xml" />
+	<monster name="Emerald Nidorino" file="Pokes1/emerald nidorino.xml" />
+	<monster name="Sapphire Nidorino" file="Pokes1/sapphire nidorino.xml" />
 	<monster name="Nidoking" file="Pokes1/nidoking.xml" />
+	<monster name="Amber Nidoking" file="Pokes1/amber nidoking.xml" />
+	<monster name="Crimson Nidoking" file="Pokes1/crimson nidoking.xml" />
+	<monster name="Amethyst Nidoking" file="Pokes1/amethyst nidoking.xml" />
+	<monster name="Emerald Nidoking" file="Pokes1/emerald nidoking.xml" />
+	<monster name="Sapphire Nidoking" file="Pokes1/sapphire nidoking.xml" />
+	<monster name="Undead Nidoking" file="Pokes1/undead nidoking.xml" />
 	<monster name="Clefairy" file="Pokes1/clefairy.xml" />
 	<monster name="Clefable" file="Pokes1/clefable.xml" />
 	<monster name="Vulpix" file="Pokes1/vulpix.xml" />

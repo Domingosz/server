@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Sapphire Blastoise" nameDescription="a sapphire blastoise" race="water" race2="none" experience="55" speed="156" manacost="0">
+<monster name="Pink Blastoise" nameDescription="a pink blastoise" race="water" race2="none" experience="55" speed="156" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1683" max="1683" />
-	<look type="3423" head="113" body="57" legs="95" feet="113" corpse="26870" />
+	<look type="3531" head="113" body="57" legs="95" feet="113" corpse="26870" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
 		<flag summonable="1" />
