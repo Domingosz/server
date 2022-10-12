@@ -1,0 +1,511 @@
+<?xml version="1.0"?>
+<spawns>
+	<spawn centerx="785" centery="832" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="870" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="875" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="876" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="883" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="888" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="893" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="893" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="894" centerz="1" radius="1">
+		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="827" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="785" centery="830" centerz="2" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="788" centery="834" centerz="2" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="838" centerz="2" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="867" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="871" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="655" centery="872" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="735" centery="876" centerz="2" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="876" centerz="2" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="724" centery="877" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="739" centery="879" centerz="2" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="882" centerz="2" radius="1">
+		<monster name="Magneton" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="732" centery="882" centerz="2" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="885" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="887" centerz="2" radius="1">
+		<monster name="Magneton" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="889" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="890" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="654" centery="891" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="725" centery="891" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="766" centery="893" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="896" centerz="2" radius="1">
+		<monster name="Electrode" x="0" y="0" z="2" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="829" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="791" centery="831" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="785" centery="835" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="867" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="650" centery="870" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="871" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="872" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="875" centerz="3" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="739" centery="875" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="878" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="731" centery="878" centerz="3" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="878" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="737" centery="878" centerz="3" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="879" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="740" centery="882" centerz="3" radius="1">
+		<monster name="Magneton" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="884" centerz="3" radius="1">
+		<monster name="Magneton" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="884" centerz="3" radius="1">
+		<monster name="Magneton" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="885" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="651" centery="887" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="731" centery="887" centerz="3" radius="1">
+		<monster name="Magneton" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="888" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="889" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="889" centerz="3" radius="1">
+		<monster name="Electabuzz" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="650" centery="890" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="762" centery="890" centerz="3" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="723" centery="892" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="734" centery="892" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="897" centerz="3" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="897" centerz="3" radius="1">
+		<monster name="Electrode" x="0" y="0" z="3" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="829" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="834" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="791" centery="834" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="866" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="870" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="724" centery="870" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="870" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="870" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="871" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="724" centery="873" centerz="4" radius="1" />
+	<spawn centerx="732" centery="873" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="741" centery="874" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="875" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="875" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="750" centery="875" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="735" centery="879" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="746" centery="879" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="881" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="883" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="884" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="736" centery="884" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="884" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="750" centery="884" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="761" centery="884" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="729" centery="887" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="888" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="888" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="656" centery="889" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="889" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="891" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="736" centery="891" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="760" centery="891" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="893" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="894" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="735" centery="894" centerz="4" radius="1">
+		<monster name="Electrode" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="896" centerz="4" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="896" centerz="4" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="897" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="898" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="740" centery="898" centerz="4" radius="1">
+		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="829" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="784" centery="834" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="836" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="865" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="871" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="871" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="871" centerz="5" radius="1">
+		<monster name="Magneton" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="732" centery="872" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="875" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+		<monster name="Magnemite" x="-1" y="1" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="719" centery="876" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="748" centery="876" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="877" centerz="5" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="879" centerz="5" radius="1">
+		<monster name="Magneton" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="881" centerz="5" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="722" centery="881" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="882" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="883" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="747" centery="884" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="657" centery="888" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="648" centery="889" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="889" centerz="5" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="889" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="725" centery="890" centerz="5" radius="1">
+		<monster name="Magneton" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="731" centery="892" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="653" centery="893" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="894" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="719" centery="896" centerz="5" radius="1">
+		<monster name="Magneton" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="738" centery="896" centerz="5" radius="1">
+		<monster name="Electrode" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="757" centery="897" centerz="5" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="897" centerz="5" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="829" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="791" centery="831" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="865" centerz="6" radius="1" />
+	<spawn centerx="656" centery="865" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="870" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="726" centery="870" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="870" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="719" centery="871" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="724" centery="871" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="739" centery="871" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="873" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="749" centery="874" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="875" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="730" centery="875" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="740" centery="875" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="719" centery="876" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="742" centery="878" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="735" centery="879" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="880" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="749" centery="881" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="649" centery="883" centerz="6" radius="1" />
+	<spawn centerx="656" centery="883" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="728" centery="883" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="741" centery="883" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="721" centery="886" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="749" centery="886" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="888" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="732" centery="888" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="740" centery="888" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="744" centery="888" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="748" centery="888" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="759" centery="889" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="725" centery="890" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="719" centery="891" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="652" centery="893" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="733" centery="893" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="765" centery="893" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="758" centery="895" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="718" centery="896" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="743" centery="896" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="727" centery="897" centerz="6" radius="1">
+		<monster name="Magnemite" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="738" centery="897" centerz="6" radius="1">
+		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+</spawns>

@@ -45,7 +45,7 @@
 
 	</moves>
 	<evolutions>
-		<evolution name="Charizard" level="30" chance="30" itemName="fire stone" count="2"/>
+		<evolution name="Amber Charizard" level="30" chance="30" itemName="fire stone" count="2"/>
 
 	</evolutions>
 	<attacks>

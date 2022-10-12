@@ -45,8 +45,8 @@
 
 	</moves>
 	<evolutions>
-		<evolution name="Venusaur" level="30" chance="30" itemName="leaf stone" count="2"/>
-		<evolution name="Venusaur" level="30" chance="30" itemName="venom stone" count="2"/>
+		<evolution name="Sapphire Venusaur" level="30" chance="30" itemName="leaf stone" count="2"/>
+		<evolution name="Sapphire Venusaur" level="30" chance="30" itemName="venom stone" count="2"/>
 
 	</evolutions>
 	<attacks>

@@ -43,7 +43,7 @@
 
 	</moves>
 	<evolutions>
-		<evolution name="Charmeleon" level="20" chance="60" itemName="fire stone" count="1"/>
+		<evolution name="Emerald Charmeleon" level="20" chance="60" itemName="fire stone" count="1"/>
 
 	</evolutions>
 	<attacks>

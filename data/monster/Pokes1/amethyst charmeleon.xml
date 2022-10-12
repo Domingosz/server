@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Pink Charmeleon" nameDescription="a pink charmeleon" race="fire" race2="none" experience="41" speed="160" manacost="0">
+<monster name="Amethyst Charmeleon" nameDescription="an amethyst charmeleon" race="fire" race2="none" experience="41" speed="160" manacost="0">
 	<level min="30" max="40"/>
 	<health now="1241" max="1241" />
 	<look type="3405" head="113" body="57" legs="95" feet="113" corpse="26866" />
@@ -19,7 +19,7 @@
 		<flag runonhealth="0" />
 		<flag dexentry="5" />
 		<flag portraitid="27121" />
-		<flag hasshiny="1" />
+		<flag hasshiny="0" />
 		<flag hasmega="0" />
 		<flag flyable="0" />
 		<flag rideable="0" />
@@ -45,7 +45,7 @@
 
 	</moves>
 	<evolutions>
-		<evolution name="Charizard" level="30" chance="30" itemName="fire stone" count="2"/>
+		<evolution name="Amethyst Charizard" level="30" chance="30" itemName="fire stone" count="2"/>
 
 	</evolutions>
 	<attacks>

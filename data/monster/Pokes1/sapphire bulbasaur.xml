@@ -43,8 +43,8 @@
 
 	</moves>
 	<evolutions>
-		<evolution name="Ivysaur" level="20" chance="60" itemName="leaf stone" count="1"/>
-		<evolution name="Ivysaur" level="20" chance="60" itemName="venom stone" count="1"/>
+		<evolution name="Sapphire Ivysaur" level="20" chance="60" itemName="leaf stone" count="1"/>
+		<evolution name="Sapphire Ivysaur" level="20" chance="60" itemName="venom stone" count="1"/>
 
 	</evolutions>
 	<attacks>
