@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Dunsparce" nameDescription="a shiny dunsparce" race="normal" race2="none" experience="66" speed="136" manacost="0">
+<monster name="Shiny Dunsparce" nameDescription="a shiny dunsparce" race="normal" race2="none" experience="66" speed="150" manacost="0">
 	<level min="15" max="25"/>
 	<health now="3196" max="3196" />
 	<look type="1679" head="113" body="57" legs="95" feet="113" corpse="28175" />

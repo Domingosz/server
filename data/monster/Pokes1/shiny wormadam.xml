@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Wormadam" nameDescription="a shiny wormadam" race="bug" race2="steel" experience="63" speed="108" manacost="0">
+<monster name="Shiny Wormadam" nameDescription="a shiny wormadam" race="bug" race2="steel" experience="63" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1530" max="1530" />
 	<look type="3292" head="113" body="57" legs="95" feet="113" corpse="38815" />

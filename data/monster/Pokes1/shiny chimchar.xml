@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Chimchar" nameDescription="a shiny chimchar" race="fire" race2="none" experience="45" speed="184" manacost="0">
+<monster name="Shiny Chimchar" nameDescription="a shiny chimchar" race="fire" race2="none" experience="45" speed="150" manacost="0">
 	<level min="5" max="12"/>
 	<health now="1122" max="1122" />
 	<look type="3270" head="113" body="57" legs="95" feet="113" corpse="38792" />

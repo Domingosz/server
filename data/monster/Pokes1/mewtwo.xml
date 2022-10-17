@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Mewtwo" nameDescription="a mewtwo" race="psychic" race2="none" experience="4085" speed="780" manacost="0">
+<monster name="Mewtwo" nameDescription="a mewtwo" race="psychic" race2="none" experience="4085" speed="150" manacost="0">
 	<level min="90" max="100"/>
 	<health now="54060" max="54060" />
 	<look type="1053" head="113" body="57" legs="95" feet="113" corpse="27011" />

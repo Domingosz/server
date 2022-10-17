@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Metang" nameDescription="a metang" race="steel" race2="psychic" experience="43" speed="100" manacost="0">
+<monster name="Metang" nameDescription="a metang" race="steel" race2="psychic" experience="43" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1275" max="1275" />
 	<look type="1556" head="113" body="57" legs="95" feet="113" corpse="27947" />

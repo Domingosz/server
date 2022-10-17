@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Whismur" nameDescription="a shiny whismur" race="normal" race2="none" experience="38" speed="84" manacost="0">
+<monster name="Shiny Whismur" nameDescription="a shiny whismur" race="normal" race2="none" experience="38" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="2040" max="2040" />
 	<look type="1783" head="113" body="57" legs="95" feet="113" corpse="28349" />

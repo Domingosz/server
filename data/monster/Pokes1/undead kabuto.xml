@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Undead Kabuto" nameDescription="an undead kabuto" race="rock" race2="water" experience="63" speed="192" manacost="0">
+<monster name="Undead Kabuto" nameDescription="an undead kabuto" race="rock" race2="water" experience="63" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="1122" max="1122" />
 	<look type="2932" head="113" body="57" legs="95" feet="113" corpse="38675" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Vileplume" nameDescription="a vileplume" race="grass" race2="poison" experience="50" speed="100" manacost="0">
+<monster name="Vileplume" nameDescription="a vileplume" race="grass" race2="poison" experience="50" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1598" max="1598" />
 	<look type="948" head="113" body="57" legs="95" feet="113" corpse="26906" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Steelix" nameDescription="a shiny steelix" race="ground" race2="steel" experience="78" speed="90" manacost="0">
+<monster name="Shiny Steelix" nameDescription="a shiny steelix" race="ground" race2="steel" experience="78" speed="150" manacost="0">
 	<level min="40" max="60"/>
 	<health now="2397" max="2397" />
 	<look type="3231" head="113" body="57" legs="95" feet="113" corpse="28177" />

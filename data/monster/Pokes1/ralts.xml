@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Ralts" nameDescription="a ralts" race="psychic" race2="fairy" experience="20" speed="80" manacost="0">
+<monster name="Ralts" nameDescription="a ralts" race="psychic" race2="fairy" experience="20" speed="150" manacost="0">
 	<level min="7" max="15"/>
 	<health now="595" max="595" />
 	<look type="1461" head="113" body="57" legs="95" feet="113" corpse="27852" />

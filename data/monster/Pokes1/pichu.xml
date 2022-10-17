@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Pichu" nameDescription="a pichu" race="electric" race2="none" experience="21" speed="120" manacost="0">
+<monster name="Pichu" nameDescription="a pichu" race="electric" race2="none" experience="21" speed="150" manacost="0">
 	<level min="5" max="12"/>
 	<health now="425" max="425" />
 	<look type="1075" head="113" body="57" legs="95" feet="113" corpse="27033" />

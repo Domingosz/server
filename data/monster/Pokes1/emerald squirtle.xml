@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Emerald Squirtle" nameDescription="an emerald squirtle" race="water" race2="none" experience="32" speed="86" manacost="0">
+<monster name="Emerald Squirtle" nameDescription="an emerald squirtle" race="water" race2="none" experience="32" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="935" max="935" />
 	<look type="3414" head="113" body="57" legs="95" feet="113" corpse="26868" />

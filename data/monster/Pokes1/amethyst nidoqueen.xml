@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amethyst Nidoqueen" nameDescription="an amethyst nidoqueen" race="ground" race2="poison" experience="52" speed="152" manacost="0">
+<monster name="Amethyst Nidoqueen" nameDescription="an amethyst nidoqueen" race="ground" race2="poison" experience="52" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1921" max="1921" />
 	<look type="3548" head="113" body="57" legs="95" feet="113" corpse="26892" />

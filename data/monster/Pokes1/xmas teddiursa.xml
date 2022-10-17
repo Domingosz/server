@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Xmas Teddiursa" nameDescription="a xmas teddiursa" race="normal" race2="none" experience="51" speed="120" manacost="0">
+<monster name="Xmas Teddiursa" nameDescription="a xmas teddiursa" race="normal" race2="none" experience="51" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="1921" max="1921" />
 	<look type="3158" head="113" body="57" legs="95" feet="113" corpse="38767" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Giratina" nameDescription="a giratina" race="ghost" race2="dragon" experience="5342" speed="540" manacost="0">
+<monster name="Giratina" nameDescription="a giratina" race="ghost" race2="dragon" experience="5342" speed="150" manacost="0">
 	<level min="95" max="100"/>
 	<health now="318750" max="318750" />
 	<look type="3095" head="113" body="57" legs="95" feet="113" corpse="38533" />

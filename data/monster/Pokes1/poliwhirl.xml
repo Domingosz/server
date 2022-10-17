@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Poliwhirl" nameDescription="a poliwhirl" race="water" race2="none" experience="40" speed="180" manacost="0">
+<monster name="Poliwhirl" nameDescription="a poliwhirl" race="water" race2="none" experience="40" speed="150" manacost="0">
 	<level min="30" max="40"/>
 	<health now="1377" max="1377" />
 	<look type="964" head="113" body="57" legs="95" feet="113" corpse="26922" />

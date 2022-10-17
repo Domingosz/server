@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Clefable" nameDescription="a clefable" race="fairy" race2="none" experience="50" speed="120" manacost="0">
+<monster name="Clefable" nameDescription="a clefable" race="fairy" race2="none" experience="50" speed="150" manacost="0">
 	<level min="20" max="30"/>
 	<health now="2023" max="2023" />
 	<look type="3184" head="113" body="57" legs="95" feet="113" corpse="26897" />

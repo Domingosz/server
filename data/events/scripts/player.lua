@@ -13,7 +13,7 @@ function Player:onLook(thing, position, distance)
 			local pokeBoost = item:getSpecialAttribute("pokeBoost") or 0
 			local pokeLove = item:getSpecialAttribute("pokeLove") or 0
 			if pokeName ~= nil and pokeLevel ~= nil then			
-				description = string.format("%s\nIt belongs to %s. Level: %s. Boost: +%s. Health: %s. Attack: %s. Magic Attack: %s. Magic Defense: %s. Armor: %s. Speed: %s.\n Love: %s.", description, master:getName(), pokeLevel, pokeBoost, thing:getTotalHealth(), thing:getTotalMeleeAttack(), thing:getTotalMagicAttack(), thing:getTotalMagicDefense(), thing:getTotalDefense(), thing:getTotalSpeed(), pokeLove)
+				description = string.format("%s\nIt belongs to %s. Level: %s. Boost: +%s. Health: %s. Attack: %s. Special Attack: %s. Special Defense: %s. Defense: %s. Speed: %s.\n Love: %s.", description, master:getName(), pokeLevel, pokeBoost, thing:getTotalHealth(), thing:getTotalMeleeAttack(), thing:getTotalMagicAttack(), thing:getTotalMagicDefense(), thing:getTotalDefense(), thing:getTotalSpeed(), pokeLove)
 			end
 		end
 	end

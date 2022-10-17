@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Groudon" nameDescription="a shiny groudon" race="ground" race2="none" experience="5888" speed="810" manacost="0">
+<monster name="Shiny Groudon" nameDescription="a shiny groudon" race="ground" race2="none" experience="5888" speed="150" manacost="0">
 	<level min="90" max="99"/>
 	<health now="76500" max="76500" />
 	<look type="1868" head="113" body="57" legs="95" feet="113" corpse="28433" />

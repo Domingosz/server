@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Sapphire Arbok" nameDescription="a sapphire arbok" race="poison" race2="none" experience="46" speed="160" manacost="0">
+<monster name="Sapphire Arbok" nameDescription="a sapphire arbok" race="poison" race2="none" experience="46" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1275" max="1275" />
 	<look type="3498" head="113" body="57" legs="95" feet="113" corpse="26885" />

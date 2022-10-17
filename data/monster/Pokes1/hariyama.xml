@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Hariyama" nameDescription="a hariyama" race="fighting" race2="none" experience="51" speed="100" manacost="0">
+<monster name="Hariyama" nameDescription="a hariyama" race="fighting" race2="none" experience="51" speed="150" manacost="0">
 	<level min="22" max="45"/>
 	<health now="3060" max="3060" />
 	<look type="1478" head="113" body="57" legs="95" feet="113" corpse="27869" />

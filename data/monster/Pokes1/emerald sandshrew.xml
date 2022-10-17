@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Emerald Sandshrew" nameDescription="an emerald sandshrew" race="ground" race2="none" experience="31" speed="80" manacost="0">
+<monster name="Emerald Sandshrew" nameDescription="an emerald sandshrew" race="ground" race2="none" experience="31" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1071" max="1071" />
 	<look type="3514" head="113" body="57" legs="95" feet="113" corpse="26888" />

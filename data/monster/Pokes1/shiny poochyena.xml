@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Poochyena" nameDescription="a shiny poochyena" race="dark" race2="none" experience="33" speed="106" manacost="0">
+<monster name="Shiny Poochyena" nameDescription="a shiny poochyena" race="dark" race2="none" experience="33" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1122" max="1122" />
 	<look type="1752" head="113" body="57" legs="95" feet="113" corpse="28318" />

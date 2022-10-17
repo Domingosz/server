@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Regigigas" nameDescription="a regigigas" race="normal" race2="none" experience="3765" speed="600" manacost="0">
+<monster name="Regigigas" nameDescription="a regigigas" race="normal" race2="none" experience="3765" speed="150" manacost="0">
 	<level min="95" max="100"/>
 	<health now="233750" max="233750" />
 	<look type="3094" head="113" body="57" legs="95" feet="113" corpse="38532" />

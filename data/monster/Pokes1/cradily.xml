@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Cradily" nameDescription="a cradily" race="rock" race2="grass" experience="51" speed="86" manacost="0">
+<monster name="Cradily" nameDescription="a cradily" race="rock" race2="grass" experience="51" speed="150" manacost="0">
 	<level min="30" max="50"/>
 	<health now="1836" max="1836" />
 	<look type="1527" head="113" body="57" legs="95" feet="113" corpse="27918" />

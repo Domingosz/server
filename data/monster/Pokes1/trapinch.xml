@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Trapinch" nameDescription="a trapinch" race="ground" race2="none" experience="30" speed="20" manacost="0">
+<monster name="Trapinch" nameDescription="a trapinch" race="ground" race2="none" experience="30" speed="150" manacost="0">
 	<level min="8" max="20"/>
 	<health now="952" max="952" />
 	<look type="1509" head="113" body="57" legs="95" feet="113" corpse="27900" />

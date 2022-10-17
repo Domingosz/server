@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Nuzleaf" nameDescription="a nuzleaf" race="grass" race2="dark" experience="35" speed="120" manacost="0">
+<monster name="Nuzleaf" nameDescription="a nuzleaf" race="grass" race2="dark" experience="35" speed="150" manacost="0">
 	<level min="15" max="25"/>
 	<health now="1496" max="1496" />
 	<look type="1455" head="113" body="57" legs="95" feet="113" corpse="27846" />

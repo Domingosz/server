@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Sharpedo" nameDescription="a sharpedo" race="water" race2="dark" experience="47" speed="190" manacost="0">
+<monster name="Sharpedo" nameDescription="a sharpedo" race="water" race2="dark" experience="47" speed="150" manacost="0">
 	<level min="30" max="40"/>
 	<health now="1496" max="1496" />
 	<look type="1500" head="113" body="57" legs="95" feet="113" corpse="27891" />

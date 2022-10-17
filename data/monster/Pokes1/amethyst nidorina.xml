@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amethyst Nidorina" nameDescription="an amethyst nidorina" race="poison" race2="none" experience="38" speed="112" manacost="0">
+<monster name="Amethyst Nidorina" nameDescription="an amethyst nidorina" race="poison" race2="none" experience="38" speed="150" manacost="0">
 	<level min="30" max="40"/>
 	<health now="1496" max="1496" />
 	<look type="3543" head="113" body="57" legs="95" feet="113" corpse="26891" />

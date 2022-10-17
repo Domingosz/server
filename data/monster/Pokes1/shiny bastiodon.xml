@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Bastiodon" nameDescription="a shiny bastiodon" race="rock" race2="steel" experience="74" speed="90" manacost="0">
+<monster name="Shiny Bastiodon" nameDescription="a shiny bastiodon" race="rock" race2="steel" experience="74" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1530" max="1530" />
 	<look type="3290" head="113" body="57" legs="95" feet="113" corpse="38813" />

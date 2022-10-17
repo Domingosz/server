@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Poliwrath" nameDescription="a shiny poliwrath" race="water" race2="fighting" experience="80" speed="210" manacost="0">
+<monster name="Shiny Poliwrath" nameDescription="a shiny poliwrath" race="water" race2="fighting" experience="80" speed="150" manacost="0">
 	<level min="15" max="30"/>
 	<health now="2873" max="2873" />
 	<look type="1223" head="113" body="57" legs="95" feet="113" corpse="27552" />

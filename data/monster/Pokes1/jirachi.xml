@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Jirachi" nameDescription="a jirachi" race="psychic" race2="steel" experience="3750" speed="600" manacost="0">
+<monster name="Jirachi" nameDescription="a jirachi" race="psychic" race2="steel" experience="3750" speed="150" manacost="0">
 	<level min="90" max="99"/>
 	<health now="51000" max="51000" />
 	<look type="1566" head="113" body="57" legs="95" feet="113" corpse="27957" />

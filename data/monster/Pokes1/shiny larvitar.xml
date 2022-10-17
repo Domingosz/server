@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Larvitar" nameDescription="a shiny larvitar" race="rock" race2="ground" experience="47" speed="124" manacost="0">
+<monster name="Shiny Larvitar" nameDescription="a shiny larvitar" race="rock" race2="ground" experience="47" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="1598" max="1598" />
 	<look type="1719" head="113" body="57" legs="95" feet="113" corpse="28212" />

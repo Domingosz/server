@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Sableye" nameDescription="a shiny sableye" race="dark" race2="ghost" experience="74" speed="60" manacost="0">
+<monster name="Shiny Sableye" nameDescription="a shiny sableye" race="dark" race2="ghost" experience="74" speed="150" manacost="0">
 	<level min="30" max="55"/>
 	<health now="1598" max="1598" />
 	<look type="1791" head="113" body="57" legs="95" feet="113" corpse="28357" />

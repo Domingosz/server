@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Xmas Mantine" nameDescription="a xmas mantine" race="water" race2="flying" experience="75" speed="210" manacost="0">
+<monster name="Xmas Mantine" nameDescription="a xmas mantine" race="water" race2="flying" experience="75" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="2703" max="2703" />
 	<look type="3181" head="113" body="57" legs="95" feet="113" corpse="38771" />

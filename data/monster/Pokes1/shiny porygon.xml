@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Porygon" nameDescription="a shiny porygon" race="normal" race2="none" experience="62" speed="120" manacost="0">
+<monster name="Shiny Porygon" nameDescription="a shiny porygon" race="normal" race2="none" experience="62" speed="150" manacost="0">
 	<level min="25" max="40"/>
 	<health now="2074" max="2074" />
 	<look type="1290" head="113" body="57" legs="95" feet="113" corpse="27619" />

@@ -53,7 +53,7 @@ timeBetweenExActions = 500
 
 -- Map
 -- NOTE: set mapName WITHOUT .otbm at the end
-mapName = "global_dash"
+mapName = "kutasisko"
 mapAuthor = "zxx"
 
 -- Market
@@ -81,9 +81,9 @@ classicEquipmentSlots = false
 
 -- Rates
 -- NOTE: rateExp is not used if you have enabled stages in data/XML/stages.xml
-rateExp = 10
-rateSkill = 10
-rateLoot = 10
+rateExp = 1
+rateSkill = 1
+rateLoot = 1
 rateMagic = 1
 rateSpawn = 1
 

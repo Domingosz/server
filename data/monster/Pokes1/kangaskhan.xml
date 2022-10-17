@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Kangaskhan" nameDescription="a kangaskhan" race="normal" race2="none" experience="51" speed="180" manacost="0">
+<monster name="Kangaskhan" nameDescription="a kangaskhan" race="normal" race2="none" experience="51" speed="150" manacost="0">
 	<level min="35" max="50"/>
 	<health now="2227" max="2227" />
 	<look type="1018" head="113" body="57" legs="95" feet="113" corpse="26976" />

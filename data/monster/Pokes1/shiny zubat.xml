@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Zubat" nameDescription="a shiny zubat" race="poison" race2="flying" experience="38" speed="166" manacost="0">
+<monster name="Shiny Zubat" nameDescription="a shiny zubat" race="poison" race2="flying" experience="38" speed="150" manacost="0">
 	<level min="1" max="15"/>
 	<health now="1275" max="1275" />
 	<look type="1208" head="113" body="57" legs="95" feet="113" corpse="27537" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Medicham" nameDescription="a shiny medicham" race="fighting" race2="psychic" experience="78" speed="300" manacost="0">
+<monster name="Shiny Medicham" nameDescription="a shiny medicham" race="fighting" race2="psychic" experience="78" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1921" max="1921" />
 	<look type="1797" head="113" body="57" legs="95" feet="113" corpse="28363" />

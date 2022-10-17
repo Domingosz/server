@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Solrock" nameDescription="a solrock" race="rock" race2="psychic" experience="48" speed="140" manacost="0">
+<monster name="Solrock" nameDescription="a solrock" race="rock" race2="psychic" experience="48" speed="150" manacost="0">
 	<level min="30" max="50"/>
 	<health now="1921" max="1921" />
 	<look type="1519" head="113" body="57" legs="95" feet="113" corpse="27910" />

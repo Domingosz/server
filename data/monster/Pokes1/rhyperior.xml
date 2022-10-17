@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Rhyperior" nameDescription="a rhyperior" race="ground" race2="rock" experience="53" speed="80" manacost="0">
+<monster name="Rhyperior" nameDescription="a rhyperior" race="ground" race2="rock" experience="53" speed="150" manacost="0">
 	<level min="25" max="60"/>
 	<health now="1955" max="1955" />
 	<look type="3072" head="113" body="57" legs="95" feet="113" corpse="38510" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Jynx" nameDescription="a jynx" race="ice" race2="psychic" experience="47" speed="190" manacost="0">
+<monster name="Jynx" nameDescription="a jynx" race="ice" race2="psychic" experience="47" speed="150" manacost="0">
 	<level min="30" max="50"/>
 	<health now="1377" max="1377" />
 	<look type="1027" head="113" body="57" legs="95" feet="113" corpse="26985" />

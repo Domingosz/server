@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Mareep" nameDescription="a shiny mareep" race="electric" race2="none" experience="44" speed="106" manacost="0">
+<monster name="Shiny Mareep" nameDescription="a shiny mareep" race="electric" race2="none" experience="44" speed="150" manacost="0">
 	<level min="14" max="20"/>
 	<health now="1751" max="1751" />
 	<look type="1652" head="113" body="57" legs="95" feet="113" corpse="28148" />

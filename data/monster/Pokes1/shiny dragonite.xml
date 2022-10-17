@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Dragonite" nameDescription="a shiny dragonite" race="dragon" race2="flying" experience="93" speed="240" manacost="0">
+<monster name="Shiny Dragonite" nameDescription="a shiny dragonite" race="dragon" race2="flying" experience="93" speed="150" manacost="0">
 	<level min="30" max="50"/>
 	<health now="2907" max="2907" />
 	<look type="1300" head="113" body="57" legs="95" feet="113" corpse="27629" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Mothim" nameDescription="a shiny mothim" race="bug" race2="flying" experience="63" speed="198" manacost="0">
+<monster name="Shiny Mothim" nameDescription="a shiny mothim" race="bug" race2="flying" experience="63" speed="150" manacost="0">
 	<level min="20" max="25"/>
 	<health now="1785" max="1785" />
 	<look type="3293" head="113" body="57" legs="95" feet="113" corpse="38816" />

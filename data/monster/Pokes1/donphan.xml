@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Donphan" nameDescription="a donphan" race="ground" race2="none" experience="52" speed="100" manacost="0">
+<monster name="Donphan" nameDescription="a donphan" race="ground" race2="none" experience="52" speed="150" manacost="0">
 	<level min="25" max="40"/>
 	<health now="1921" max="1921" />
 	<look type="1135" head="113" body="57" legs="95" feet="113" corpse="27093" />

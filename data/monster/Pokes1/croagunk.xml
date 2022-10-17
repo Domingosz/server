@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Croagunk" nameDescription="a croagunk" race="poison" race2="fighting" experience="30" speed="100" manacost="0">
+<monster name="Croagunk" nameDescription="a croagunk" race="poison" race2="fighting" experience="30" speed="150" manacost="0">
 	<level min="8" max="18"/>
 	<health now="816" max="816" />
 	<look type="3061" head="113" body="57" legs="95" feet="113" corpse="38499" />

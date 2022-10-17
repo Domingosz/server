@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Carvanha" nameDescription="a carvanha" race="water" race2="dark" experience="31" speed="130" manacost="0">
+<monster name="Carvanha" nameDescription="a carvanha" race="water" race2="dark" experience="31" speed="150" manacost="0">
 	<level min="20" max="30"/>
 	<health now="952" max="952" />
 	<look type="1499" head="113" body="57" legs="95" feet="113" corpse="27890" />

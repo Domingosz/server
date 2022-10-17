@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Illumise" nameDescription="an illumise" race="bug" race2="none" experience="44" speed="170" manacost="0">
+<monster name="Illumise" nameDescription="an illumise" race="bug" race2="none" experience="44" speed="150" manacost="0">
 	<level min="15" max="25"/>
 	<health now="1377" max="1377" />
 	<look type="1495" head="113" body="57" legs="95" feet="113" corpse="27886" />

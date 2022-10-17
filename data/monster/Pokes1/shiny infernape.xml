@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Infernape" nameDescription="a shiny infernape" race="fire" race2="fighting" experience="80" speed="324" manacost="0">
+<monster name="Shiny Infernape" nameDescription="a shiny infernape" race="fire" race2="fighting" experience="80" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1938" max="1938" />
 	<look type="3272" head="113" body="57" legs="95" feet="113" corpse="38794" />

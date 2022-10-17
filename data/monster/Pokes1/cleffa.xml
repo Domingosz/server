@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Cleffa" nameDescription="a cleffa" race="fairy" race2="none" experience="23" speed="30" manacost="0">
+<monster name="Cleffa" nameDescription="a cleffa" race="fairy" race2="none" experience="23" speed="150" manacost="0">
 	<level min="10" max="15"/>
 	<health now="1071" max="1071" />
 	<look type="1076" head="113" body="57" legs="95" feet="113" corpse="27034" />

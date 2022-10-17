@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Aggron" nameDescription="an aggron" race="rock" race2="steel" experience="54" speed="100" manacost="0">
+<monster name="Aggron" nameDescription="an aggron" race="rock" race2="steel" experience="54" speed="150" manacost="0">
 	<level min="30" max="60"/>
 	<health now="1496" max="1496" />
 	<look type="1487" head="113" body="57" legs="95" feet="113" corpse="27878" />

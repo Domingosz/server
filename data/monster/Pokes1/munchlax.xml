@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Munchlax" nameDescription="a munchlax" race="normal" race2="none" experience="39" speed="10" manacost="0">
+<monster name="Munchlax" nameDescription="a munchlax" race="normal" race2="none" experience="39" speed="150" manacost="0">
 	<level min="5" max="20"/>
 	<health now="2295" max="2295" />
 	<look type="3054" head="113" body="57" legs="95" feet="113" corpse="38492" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Tyranitar" nameDescription="a tyranitar" race="rock" race2="dark" experience="62" speed="122" manacost="0">
+<monster name="Tyranitar" nameDescription="a tyranitar" race="rock" race2="dark" experience="62" speed="150" manacost="0">
 	<level min="25" max="50"/>
 	<health now="2125" max="2125" />
 	<look type="1151" head="113" body="57" legs="95" feet="113" corpse="27109" />

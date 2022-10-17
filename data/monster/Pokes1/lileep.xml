@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Lileep" nameDescription="a lileep" race="rock" race2="grass" experience="37" speed="46" manacost="0">
+<monster name="Lileep" nameDescription="a lileep" race="rock" race2="grass" experience="37" speed="150" manacost="0">
 	<level min="15" max="30"/>
 	<health now="1411" max="1411" />
 	<look type="1526" head="113" body="57" legs="95" feet="113" corpse="27917" />

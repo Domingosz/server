@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Pinsir" nameDescription="a shiny pinsir" race="bug" race2="none" experience="77" speed="256" manacost="0">
+<monster name="Shiny Pinsir" nameDescription="a shiny pinsir" race="bug" race2="none" experience="77" speed="150" manacost="0">
 	<level min="30" max="50"/>
 	<health now="2074" max="2074" />
 	<look type="1283" head="113" body="57" legs="95" feet="113" corpse="27612" />

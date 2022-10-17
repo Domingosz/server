@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Feebas" nameDescription="a feebas" race="water" race2="none" experience="20" speed="160" manacost="0">
+<monster name="Feebas" nameDescription="a feebas" race="water" race2="none" experience="20" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="425" max="425" />
 	<look type="1530" head="113" body="57" legs="95" feet="113" corpse="27921" />

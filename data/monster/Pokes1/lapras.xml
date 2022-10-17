@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Lapras" nameDescription="a lapras" race="water" race2="ice" experience="56" speed="120" manacost="0">
+<monster name="Lapras" nameDescription="a lapras" race="water" race2="ice" experience="56" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="2771" max="2771" />
 	<look type="1034" head="113" body="57" legs="95" feet="113" corpse="26992" />

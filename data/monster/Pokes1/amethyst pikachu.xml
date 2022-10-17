@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amethyst Pikachu" nameDescription="an amethyst pikachu" race="electric" race2="none" experience="32" speed="180" manacost="0">
+<monster name="Amethyst Pikachu" nameDescription="an amethyst pikachu" race="electric" race2="none" experience="32" speed="150" manacost="0">
 	<level min="10" max="25"/>
 	<health now="748" max="748" />
 	<look type="3505" head="113" body="57" legs="95" feet="113" corpse="26886" />

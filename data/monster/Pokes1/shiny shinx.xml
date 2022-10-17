@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Shinx" nameDescription="a shiny shinx" race="electric" race2="none" experience="39" speed="136" manacost="0">
+<monster name="Shiny Shinx" nameDescription="a shiny shinx" race="electric" race2="none" experience="39" speed="150" manacost="0">
 	<level min="5" max="10"/>
 	<health now="1156" max="1156" />
 	<look type="3283" head="113" body="57" legs="95" feet="113" corpse="38805" />

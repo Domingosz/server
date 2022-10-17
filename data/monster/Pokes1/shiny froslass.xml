@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Froslass" nameDescription="a shiny froslass" race="ice" race2="ghost" experience="72" speed="330" manacost="0">
+<monster name="Shiny Froslass" nameDescription="a shiny froslass" race="ice" race2="ghost" experience="72" speed="150" manacost="0">
 	<level min="20" max="40"/>
 	<health now="1785" max="1785" />
 	<look type="3356" head="113" body="57" legs="95" feet="113" corpse="38880" />

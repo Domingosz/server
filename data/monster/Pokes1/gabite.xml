@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Gabite" nameDescription="a gabite" race="dragon" race2="ground" experience="41" speed="164" manacost="0">
+<monster name="Gabite" nameDescription="a gabite" race="dragon" race2="ground" experience="41" speed="150" manacost="0">
 	<level min="15" max="30"/>
 	<health now="1156" max="1156" />
 	<look type="3052" head="113" body="57" legs="95" feet="113" corpse="38490" />

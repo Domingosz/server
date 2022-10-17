@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Snover" nameDescription="a snover" race="grass" race2="ice" experience="33" speed="80" manacost="0">
+<monster name="Snover" nameDescription="a snover" race="grass" race2="ice" experience="33" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1020" max="1020" />
 	<look type="3067" head="113" body="57" legs="95" feet="113" corpse="38505" />

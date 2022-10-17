@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Ninetales" nameDescription="a ninetales" race="fire" race2="none" experience="52" speed="200" manacost="0">
+<monster name="Ninetales" nameDescription="a ninetales" race="fire" race2="none" experience="52" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="1547" max="1547" />
 	<look type="941" head="113" body="57" legs="95" feet="113" corpse="26899" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Garchomp" nameDescription="a garchomp" race="dragon" race2="ground" experience="60" speed="204" manacost="0">
+<monster name="Garchomp" nameDescription="a garchomp" race="dragon" race2="ground" experience="60" speed="150" manacost="0">
 	<level min="30" max="60"/>
 	<health now="1836" max="1836" />
 	<look type="3053" head="113" body="57" legs="95" feet="113" corpse="38491" />

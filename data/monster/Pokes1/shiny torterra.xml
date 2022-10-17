@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Torterra" nameDescription="a shiny torterra" race="grass" race2="ground" experience="78" speed="168" manacost="0">
+<monster name="Shiny Torterra" nameDescription="a shiny torterra" race="grass" race2="ground" experience="78" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="2431" max="2431" />
 	<look type="3269" head="113" body="57" legs="95" feet="113" corpse="38791" />

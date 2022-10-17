@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Drifloon" nameDescription="a shiny drifloon" race="ghost" race2="flying" experience="51" speed="210" manacost="0">
+<monster name="Shiny Drifloon" nameDescription="a shiny drifloon" race="ghost" race2="flying" experience="51" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="2295" max="2295" />
 	<look type="3304" head="113" body="57" legs="95" feet="113" corpse="38827" />

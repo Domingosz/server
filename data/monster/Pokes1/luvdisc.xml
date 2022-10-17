@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Luvdisc" nameDescription="a luvdisc" race="water" race2="none" experience="34" speed="194" manacost="0">
+<monster name="Luvdisc" nameDescription="a luvdisc" race="water" race2="none" experience="34" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="918" max="918" />
 	<look type="1551" head="113" body="57" legs="95" feet="113" corpse="27942" />

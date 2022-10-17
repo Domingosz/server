@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Jigglypuff" nameDescription="a jigglypuff" race="normal" race2="fairy" experience="29" speed="40" manacost="0">
+<monster name="Jigglypuff" nameDescription="a jigglypuff" race="normal" race2="fairy" experience="29" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="2448" max="2448" />
 	<look type="3194" head="113" body="57" legs="95" feet="113" corpse="26900" />

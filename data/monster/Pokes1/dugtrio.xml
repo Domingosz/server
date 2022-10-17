@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Dugtrio" nameDescription="a dugtrio" race="ground" race2="none" experience="43" speed="240" manacost="0">
+<monster name="Dugtrio" nameDescription="a dugtrio" race="ground" race2="none" experience="43" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="748" max="748" />
 	<look type="954" head="113" body="57" legs="95" feet="113" corpse="26912" />

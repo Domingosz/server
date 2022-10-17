@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Undead Omanyte" nameDescription="an undead omanyte" race="rock" race2="water" experience="63" speed="122" manacost="0">
+<monster name="Undead Omanyte" nameDescription="an undead omanyte" race="rock" race2="water" experience="63" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="1309" max="1309" />
 	<look type="2934" head="113" body="57" legs="95" feet="113" corpse="38673" />

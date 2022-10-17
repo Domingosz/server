@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Gyarados" nameDescription="a shiny gyarados" race="water" race2="flying" experience="84" speed="244" manacost="0">
+<monster name="Shiny Gyarados" nameDescription="a shiny gyarados" race="water" race2="flying" experience="84" speed="150" manacost="0">
 	<level min="15" max="35"/>
 	<health now="3026" max="3026" />
 	<look type="1286" head="113" body="57" legs="95" feet="113" corpse="27615" />

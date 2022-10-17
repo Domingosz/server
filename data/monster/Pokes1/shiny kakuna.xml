@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Kakuna" nameDescription="a shiny kakuna" race="bug" race2="poison" experience="32" speed="106" manacost="0">
+<monster name="Shiny Kakuna" nameDescription="a shiny kakuna" race="bug" race2="poison" experience="32" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1428" max="1428" />
 	<look type="1185" head="113" body="57" legs="95" feet="113" corpse="27514" />

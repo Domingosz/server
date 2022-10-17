@@ -114,7 +114,7 @@
 	<monster name="Crimson Rattata" file="Pokes1/crimson rattata.xml" />
 	<monster name="Amethyst Rattata" file="Pokes1/amethyst rattata.xml" />
 	<monster name="Emerald Rattata" file="Pokes1/emerald rattata.xml" />
-	<monster name="Sapphire Rattata" file="Pokes1/sapphire rattata.xml" />
+	<monster name="Destruktor" file="Pokes1/destruktor.xml" />
 	<monster name="Raticate" file="Pokes1/raticate.xml" />
 	<monster name="Amber Raticate" file="Pokes1/amber raticate.xml" />
 	<monster name="Crimson Raticate" file="Pokes1/crimson raticate.xml" />
@@ -193,7 +193,6 @@
 	<monster name="Amethyst Nidoran Y" file="Pokes1/amethyst Nidoran Y.xml" />
 	<monster name="Emerald Nidoran Y" file="Pokes1/emerald Nidoran Y.xml" />
 	<monster name="Sapphire Nidoran Y" file="Pokes1/sapphire Nidoran Y.xml" />
-
 	<monster name="Nidorino" file="Pokes1/nidorino.xml" />
 	<monster name="Amber Nidorino" file="Pokes1/amber nidorino.xml" />
 	<monster name="Crimson Nidorino" file="Pokes1/crimson nidorino.xml" />

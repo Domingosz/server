@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny toxicroak" nameDescription="a shiny toxicroak" race="poison" race2="fighting" experience="74" speed="256" manacost="0">
+<monster name="Shiny toxicroak" nameDescription="a shiny toxicroak" race="poison" race2="fighting" experience="74" speed="150" manacost="0">
 	<level min="20" max="43"/>
 	<health now="2125" max="2125" />
 	<look type="3333" head="113" body="57" legs="95" feet="113" corpse="38856" />

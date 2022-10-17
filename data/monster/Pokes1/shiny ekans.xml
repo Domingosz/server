@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Ekans" nameDescription="a shiny ekans" race="poison" race2="none" experience="44" speed="166" manacost="0">
+<monster name="Shiny Ekans" nameDescription="a shiny ekans" race="poison" race2="none" experience="44" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="1122" max="1122" />
 	<look type="1194" head="113" body="57" legs="95" feet="113" corpse="27523" />

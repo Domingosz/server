@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Elite Hitmonchan" nameDescription="an elite hitmonchan" race="fighting" race2="none" experience="116" speed="304" manacost="0">
+<monster name="Elite Hitmonchan" nameDescription="an elite hitmonchan" race="fighting" race2="none" experience="116" speed="150" manacost="0">
 	<level min="80" max="100"/>
 	<health now="2125" max="2125" />
 	<look type="1915" head="113" body="57" legs="95" feet="113" corpse="38707" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Entei" nameDescription="an entei" race="fire" race2="none" experience="4037" speed="600" manacost="0">
+<monster name="Entei" nameDescription="an entei" race="fire" race2="none" experience="4037" speed="150" manacost="0">
 	<level min="90" max="100"/>
 	<health now="58650" max="58650" />
 	<look type="1147" head="113" body="57" legs="95" feet="113" corpse="27105" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Cranidos" nameDescription="a cranidos" race="rock" race2="none" experience="35" speed="116" manacost="0">
+<monster name="Cranidos" nameDescription="a cranidos" race="rock" race2="none" experience="35" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="1139" max="1139" />
 	<look type="3016" head="113" body="57" legs="95" feet="113" corpse="38454" />

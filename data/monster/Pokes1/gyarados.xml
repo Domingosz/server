@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Gyarados" nameDescription="a gyarados" race="water" race2="flying" experience="56" speed="162" manacost="0">
+<monster name="Gyarados" nameDescription="a gyarados" race="water" race2="flying" experience="56" speed="150" manacost="0">
 	<level min="40" max="50"/>
 	<health now="2023" max="2023" />
 	<look type="1033" head="113" body="57" legs="95" feet="113" corpse="26991" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Chimchar" nameDescription="a chimchar" race="fire" race2="none" experience="30" speed="122" manacost="0">
+<monster name="Chimchar" nameDescription="a chimchar" race="fire" race2="none" experience="30" speed="150" manacost="0">
 	<level min="5" max="12"/>
 	<health now="748" max="748" />
 	<look type="2998" head="113" body="57" legs="95" feet="113" corpse="38436" />

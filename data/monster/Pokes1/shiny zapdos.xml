@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Zapdos" nameDescription="a shiny zapdos" race="electric" race2="flying" experience="5213" speed="900" manacost="0">
+<monster name="Shiny Zapdos" nameDescription="a shiny zapdos" race="electric" race2="flying" experience="5213" speed="150" manacost="0">
 	<level min="90" max="100"/>
 	<health now="68850" max="68850" />
 	<look type="1048" head="113" body="57" legs="95" feet="113" corpse="38715" />

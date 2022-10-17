@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Sapphire Butterfree" nameDescription="a sapphire butterfree" race="bug" race2="flying" experience="41" speed="140" manacost="0">
+<monster name="Sapphire Butterfree" nameDescription="a sapphire butterfree" race="bug" race2="flying" experience="41" speed="150" manacost="0">
 	<level min="30" max="45"/>
 	<health now="1275" max="1275" />
 	<look type="3438" head="113" body="57" legs="95" feet="113" corpse="26873" />

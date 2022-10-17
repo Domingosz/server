@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Mummy Charmander" nameDescription="a mummy charmander" race="fire" race2="none" experience="96" speed="350" manacost="0">
+<monster name="Mummy Charmander" nameDescription="a mummy charmander" race="fire" race2="none" experience="96" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="2907" max="2907" />
 	<look type="2928" head="113" body="57" legs="95" feet="113" corpse="38660" />

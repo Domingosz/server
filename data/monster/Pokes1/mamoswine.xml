@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Mamoswine" nameDescription="a mamoswine" race="ice" race2="ground" experience="53" speed="160" manacost="0">
+<monster name="Mamoswine" nameDescription="a mamoswine" race="ice" race2="ground" experience="53" speed="150" manacost="0">
 	<level min="25" max="70"/>
 	<health now="1870" max="1870" />
 	<look type="3081" head="113" body="57" legs="95" feet="113" corpse="38519" />

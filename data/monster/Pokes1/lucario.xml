@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Lucario" nameDescription="a lucario" race="fighting" race2="steel" experience="52" speed="180" manacost="0">
+<monster name="Lucario" nameDescription="a lucario" race="fighting" race2="steel" experience="52" speed="150" manacost="0">
 	<level min="20" max="50"/>
 	<health now="1190" max="1190" />
 	<look type="3056" head="113" body="57" legs="95" feet="113" corpse="38494" />

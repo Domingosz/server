@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Electrode" nameDescription="a shiny electrode" race="electric" race2="none" experience="75" speed="450" manacost="0">
+<monster name="Shiny Electrode" nameDescription="a shiny electrode" race="electric" race2="none" experience="75" speed="150" manacost="0">
 	<level min="15" max="30"/>
 	<health now="1921" max="1921" />
 	<look type="1260" head="113" body="57" legs="95" feet="113" corpse="27589" />

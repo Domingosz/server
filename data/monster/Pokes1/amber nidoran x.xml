@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amber Nidoran X" nameDescription="a amber nidoran x" race="poison" race2="none" experience="28" speed="82" manacost="0">
+<monster name="Amber Nidoran X" nameDescription="a amber nidoran x" race="poison" race2="none" experience="28" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1173" max="1173" />
 	<look type="3540" head="113" body="57" legs="95" feet="113" corpse="26890" />

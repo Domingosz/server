@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Loudred" nameDescription="a shiny loudred" race="normal" race2="none" experience="57" speed="144" manacost="0">
+<monster name="Shiny Loudred" nameDescription="a shiny loudred" race="normal" race2="none" experience="57" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="2686" max="2686" />
 	<look type="1784" head="113" body="57" legs="95" feet="113" corpse="28350" />

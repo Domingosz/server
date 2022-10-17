@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Armaldo" nameDescription="an armaldo" race="rock" race2="bug" experience="51" speed="90" manacost="0">
+<monster name="Armaldo" nameDescription="an armaldo" race="rock" race2="bug" experience="51" speed="150" manacost="0">
 	<level min="25" max="45"/>
 	<health now="1598" max="1598" />
 	<look type="1529" head="113" body="57" legs="95" feet="113" corpse="27920" />

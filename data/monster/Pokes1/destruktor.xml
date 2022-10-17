@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Sapphire Rattata" nameDescription="a sapphire rattata" race="normal" race2="none" experience="26" speed="144" manacost="0">
-	<level min="1" max="2"/>
-	<health now="646" max="646" />
+<monster name="Destruktor" nameDescription="a destruktor" race="normal" race2="steel" experience="26" speed="150" manacost="0">
+	<level min="100" max="100"/>
+	<health now="20000" max="20000" />
 	<look type="3473" head="113" body="57" legs="95" feet="113" corpse="26880" />
 	<targetchange interval="5000" chance="0" />
 	<flags>
@@ -11,9 +11,9 @@
 		<flag passive="1" />
 		<flag illusionable="1" />
 		<flag convinceable="1" />
-		<flag pushable="1" />
+		<flag pushable="0" />
 		<flag canpushitems="1" />
-		<flag canpushcreatures="0" />
+		<flag canpushcreatures="1" />
 		<flag targetdistance="1" />
 		<flag staticattack="97" />
 		<flag runonhealth="0" />
@@ -25,34 +25,41 @@
 		<flag rideable="0" />
 		<flag surfable="0" />
 		<flag canteleport="0" />
-		<flag catchchance="26" />
-		<flag moveMagicAttackBase="25" />
-		<flag moveMagicDefenseBase="35" />
+		<flag catchchance="0" />
+		<flag moveMagicAttackBase="100" />
+		<flag moveMagicDefenseBase="100" />
 	</flags>
 	<script>
         	<event name="MonsterHealthChange"/>
         	<event name="CorpseLevel"/>
         	<event name="CorpseLoot"/>
-
 	</script>
 	<moves>
 		<move name="tackle" interval="3000" isTarget="1" range="1"/>
 		<move name="bite" interval="3000" isTarget="1" range="1"/>
 		<move name="quick attack" interval="3000" isTarget="1"/>
-
+		<move name="earthquake" interval="10000"/>
+		<move name="mega punch" interval="7000" isTarget="1" range="1"/>
+		<move name="harden" interval="5000"/>
+		<move name="gyro ball" interval="10000"/>
+		<move name="dragon breath" interval="5000"/>
+		<move name="metal sound" interval="10000"/>
 	</moves>
 	<evolutions>
-		<evolution name="Sapphire Raticate" level="15" chance="60" itemName="heart stone" count="1"/>
-
 	</evolutions>
 	<attacks>
-		<attack name="melee" interval="2000" min="-56" max="-56" />
-		<attack name="tackle" interval="3000" chance="40" range="1" target="1"/>
-		<attack name="bite" interval="3000" chance="40" range="1" target="1"/>
-		<attack name="quick attack" interval="3000" chance="40" target="1"/>
-
+		<attack name="melee" interval="2000" min="-60" max="-60" />
+		<attack name="tackle" interval="3000" chance="40" isTarget="1" range="1"/>
+		<attack name="bite" interval="3000" chance="40" isTarget="1" range="1"/>
+		<attack name="quick attack" interval="3000" chance="40" isTarget="1"/>
+		<attack name="earthquake" interval="10000" chance="40"/>
+		<attack name="mega punch" interval="7000" chance="40" isTarget="1" range="1"/>
+		<attack name="harden" interval="5000" chance="40" />
+		<attack name="gyro ball" interval="10000" chance="40"/>
+		<attack name="dragon breath" interval="5000" chance="40"/>
+		<attack name="metal sound" interval="10000" chance="40"/>
 	</attacks>
-	<defenses armor="0" defense="35" >
+	<defenses armor="0" defense="100" >
 
 	</defenses>
 	<elements>
@@ -61,7 +68,7 @@
 
 	</immunities>
 	<voices interval="5000" chance="10">
-		<voice sentence="RATTATA!" />
+		<voice sentence="DESTRUKTOR!" />
 	</voices>
 	<loot>
 		<item name="heart stone" countmax="1" chance="8"/>

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Lopunny" nameDescription="a lopunny" race="normal" race2="none" experience="48" speed="210" manacost="0">
+<monster name="Lopunny" nameDescription="a lopunny" race="normal" race2="none" experience="48" speed="150" manacost="0">
 	<level min="12" max="20"/>
 	<health now="1105" max="1105" />
 	<look type="3036" head="113" body="57" legs="95" feet="113" corpse="38474" />

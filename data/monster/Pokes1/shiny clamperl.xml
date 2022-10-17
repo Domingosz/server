@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Clamperl" nameDescription="a shiny clamperl" race="water" race2="none" experience="53" speed="96" manacost="0">
+<monster name="Shiny Clamperl" nameDescription="a shiny clamperl" race="water" race2="none" experience="53" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1122" max="1122" />
 	<look type="1853" head="113" body="57" legs="95" feet="113" corpse="28418" />

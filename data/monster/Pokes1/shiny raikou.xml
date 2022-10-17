@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Raikou" nameDescription="a shiny raikou" race="electric" race2="none" experience="5213" speed="1036" manacost="0">
+<monster name="Shiny Raikou" nameDescription="a shiny raikou" race="electric" race2="none" experience="5213" speed="150" manacost="0">
 	<level min="90" max="100"/>
 	<health now="68850" max="68850" />
 	<look type="1146" head="113" body="57" legs="95" feet="113" corpse="27104" />

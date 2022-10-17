@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shieldon" nameDescription="a shieldon" race="rock" race2="steel" experience="35" speed="60" manacost="0">
+<monster name="Shieldon" nameDescription="a shieldon" race="rock" race2="steel" experience="35" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="510" max="510" />
 	<look type="3018" head="113" body="57" legs="95" feet="113" corpse="38456" />

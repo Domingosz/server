@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Cherubi" nameDescription="a shiny cherubi" race="grass" race2="none" experience="41" speed="106" manacost="0">
+<monster name="Shiny Cherubi" nameDescription="a shiny cherubi" race="grass" race2="none" experience="41" speed="150" manacost="0">
 	<level min="5" max="12"/>
 	<health now="1156" max="1156" />
 	<look type="3299" head="113" body="57" legs="95" feet="113" corpse="38822" />

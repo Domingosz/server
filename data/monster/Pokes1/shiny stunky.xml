@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Stunky" nameDescription="a shiny stunky" race="poison" race2="dark" experience="48" speed="222" manacost="0">
+<monster name="Shiny Stunky" nameDescription="a shiny stunky" race="poison" race2="dark" experience="48" speed="150" manacost="0">
 	<level min="5" max="15"/>
 	<health now="1615" max="1615" />
 	<look type="3313" head="113" body="57" legs="95" feet="113" corpse="38836" />

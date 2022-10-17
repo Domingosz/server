@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Manectric" nameDescription="a shiny manectric" race="electric" race2="none" experience="74" speed="316" manacost="0">
+<monster name="Shiny Manectric" nameDescription="a shiny manectric" race="electric" race2="none" experience="74" speed="150" manacost="0">
 	<level min="20" max="40"/>
 	<health now="2227" max="2227" />
 	<look type="1799" head="113" body="57" legs="95" feet="113" corpse="28365" />

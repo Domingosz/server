@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Goldeen" nameDescription="a shiny goldeen" race="water" race2="none" experience="50" speed="190" manacost="0">
+<monster name="Shiny Goldeen" nameDescription="a shiny goldeen" race="water" race2="none" experience="50" speed="150" manacost="0">
 	<level min="5" max="10"/>
 	<health now="1428" max="1428" />
 	<look type="1274" head="113" body="57" legs="95" feet="113" corpse="27603" />

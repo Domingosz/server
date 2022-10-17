@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Rhyhorn" nameDescription="a shiny rhyhorn" race="ground" race2="rock" experience="54" speed="76" manacost="0">
+<monster name="Shiny Rhyhorn" nameDescription="a shiny rhyhorn" race="ground" race2="rock" experience="54" speed="150" manacost="0">
 	<level min="12" max="25"/>
 	<health now="2550" max="2550" />
 	<look type="1269" head="113" body="57" legs="95" feet="113" corpse="27598" />

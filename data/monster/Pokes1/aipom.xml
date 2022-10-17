@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Aipom" nameDescription="an aipom" race="normal" race2="none" experience="37" speed="170" manacost="0">
+<monster name="Aipom" nameDescription="an aipom" race="normal" race2="none" experience="37" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1173" max="1173" />
 	<look type="1093" head="113" body="57" legs="95" feet="113" corpse="27051" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Unown" nameDescription="an unown" race="psychic" race2="none" experience="34" speed="96" manacost="0">
+<monster name="Unown" nameDescription="an unown" race="psychic" race2="none" experience="34" speed="150" manacost="0">
 	<level min="1" max="5"/>
 	<health now="1020" max="1020" />
 	<look type="1104" head="113" body="57" legs="95" feet="113" corpse="27062" />

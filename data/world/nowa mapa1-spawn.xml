@@ -1,7 +1,7 @@
 <?xml version="1.0"?>
 <spawns>
 	<spawn centerx="785" centery="832" centerz="1" radius="1">
-		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
+		<monster name="Ampharos" x="0" y="0" z="1" spawntime="60" />
 	</spawn>
 	<spawn centerx="653" centery="870" centerz="1" radius="1">
 		<monster name="Magneton" x="0" y="0" z="1" spawntime="60" />
@@ -295,6 +295,21 @@
 	<spawn centerx="740" centery="898" centerz="4" radius="1">
 		<monster name="Magneton" x="0" y="0" z="4" spawntime="60" />
 	</spawn>
+	<spawn centerx="787" centery="720" centerz="5" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="720" centerz="5" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="793" centery="720" centerz="5" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="723" centerz="5" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="793" centery="723" centerz="5" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
 	<spawn centerx="786" centery="829" centerz="5" radius="1">
 		<monster name="Voltorb" x="0" y="0" z="5" spawntime="60" />
 	</spawn>
@@ -385,6 +400,24 @@
 	</spawn>
 	<spawn centerx="765" centery="897" centerz="5" radius="1">
 		<monster name="Magnemite" x="0" y="0" z="5" spawntime="60" />
+	</spawn>
+	<spawn centerx="786" centery="719" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="789" centery="719" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="791" centery="719" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="722" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="722" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="792" centery="723" centerz="6" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="6" spawntime="60" />
 	</spawn>
 	<spawn centerx="786" centery="829" centerz="6" radius="1">
 		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
@@ -507,5 +540,534 @@
 	</spawn>
 	<spawn centerx="738" centery="897" centerz="6" radius="1">
 		<monster name="Voltorb" x="0" y="0" z="6" spawntime="60" />
+	</spawn>
+	<spawn centerx="763" centery="705" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="767" centery="705" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="772" centery="705" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="705" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="779" centery="705" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="761" centery="707" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="767" centery="708" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="772" centery="708" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="776" centery="708" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="764" centery="709" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="777" centery="715" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="781" centery="715" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="773" centery="717" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="787" centery="720" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="790" centery="720" centerz="7" radius="1">
+		<monster name="Beedrill" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="755" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="404" centery="755" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="407" centery="755" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="755" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="755" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="417" centery="756" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="756" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="424" centery="756" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="758" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="758" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="758" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="759" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="759" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="759" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="405" centery="761" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="761" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="762" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="417" centery="762" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="762" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="762" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="763" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="407" centery="764" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="413" centery="764" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="404" centery="766" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="766" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="766" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="392" centery="767" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="767" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="767" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="424" centery="767" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="380" centery="768" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="383" centery="768" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="387" centery="768" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="768" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="768" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="391" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="770" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="387" centery="771" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="772" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="773" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="773" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="773" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="773" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="387" centery="774" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="391" centery="774" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="394" centery="774" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="413" centery="774" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="774" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="775" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="775" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="419" centery="776" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="776" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="387" centery="777" centerz="7" radius="1">
+		<monster name="Miltank" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="777" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="413" centery="777" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="391" centery="778" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="778" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="778" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="778" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="779" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="779" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="419" centery="779" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="422" centery="779" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="781" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="781" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="781" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="415" centery="781" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="782" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="782" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="390" centery="783" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="394" centery="783" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="783" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="783" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="385" centery="784" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="388" centery="785" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="392" centery="785" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="396" centery="785" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="415" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="425" centery="785" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="386" centery="786" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="400" centery="786" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="786" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="390" centery="787" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="385" centery="788" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="387" centery="788" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="394" centery="788" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="423" centery="788" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="385" centery="790" centerz="7" radius="1">
+		<monster name="Mareep" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="417" centery="791" centerz="7" radius="1" />
+	<spawn centerx="424" centery="791" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="792" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="792" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="394" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="397" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="400" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="403" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="406" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="409" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="415" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="424" centery="795" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="392" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="398" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="404" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="407" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="413" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="416" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="420" centery="798" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="398" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="404" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="407" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="410" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="422" centery="801" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="395" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="398" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="404" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="407" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="411" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="422" centery="805" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="391" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="394" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="397" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="401" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="405" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="408" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="412" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="415" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="419" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="422" centery="808" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="393" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="396" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="399" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="402" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="405" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="408" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="414" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="421" centery="810" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="411" centery="811" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
+	</spawn>
+	<spawn centerx="418" centery="811" centerz="7" radius="1">
+		<monster name="Caterpie" x="0" y="0" z="7" spawntime="60" />
 	</spawn>
 </spawns>

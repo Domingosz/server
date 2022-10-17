@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Reindeer Miltank" nameDescription="a reindeer miltank" race="normal" race2="none" experience="77" speed="300" manacost="0">
+<monster name="Reindeer Miltank" nameDescription="a reindeer miltank" race="normal" race2="none" experience="77" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="3026" max="3026" />
 	<look type="3259" head="113" body="57" legs="95" feet="113" corpse="38773" />

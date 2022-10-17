@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Palkia" nameDescription="a palkia" race="water" race2="dragon" experience="4855" speed="600" manacost="0">
+<monster name="Palkia" nameDescription="a palkia" race="water" race2="dragon" experience="4855" speed="150" manacost="0">
 	<level min="95" max="100"/>
 	<health now="191250" max="191250" />
 	<look type="3092" head="113" body="57" legs="95" feet="113" corpse="38530" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Xmas Seel" nameDescription="a xmas seel" race="water" race2="none" experience="51" speed="136" manacost="0">
+<monster name="Xmas Seel" nameDescription="a xmas seel" race="water" race2="none" experience="51" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="2074" max="2074" />
 	<look type="3134" head="113" body="57" legs="95" feet="113" corpse="38743" />

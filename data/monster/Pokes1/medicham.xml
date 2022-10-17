@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Medicham" nameDescription="a medicham" race="fighting" race2="psychic" experience="52" speed="200" manacost="0">
+<monster name="Medicham" nameDescription="a medicham" race="fighting" race2="psychic" experience="52" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1275" max="1275" />
 	<look type="1489" head="113" body="57" legs="95" feet="113" corpse="27880" />

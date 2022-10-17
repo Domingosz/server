@@ -1,4 +1,4 @@
-    local buttonMachineId_on = 26694
+local buttonMachineId_on = 26694
 local buttonMachineId_off = 26693
 local ballMachineId_on = 26695
 local ballMachineId_off = 26696

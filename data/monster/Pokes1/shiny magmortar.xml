@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Magmortar" nameDescription="a shiny magmortar" race="fire" race2="none" experience="81" speed="250" manacost="0">
+<monster name="Shiny Magmortar" nameDescription="a shiny magmortar" race="fire" race2="none" experience="81" speed="150" manacost="0">
 	<level min="25" max="60"/>
 	<health now="1921" max="1921" />
 	<look type="3345" head="113" body="57" legs="95" feet="113" corpse="38869" />

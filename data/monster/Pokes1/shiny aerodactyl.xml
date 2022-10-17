@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Aerodactyl" nameDescription="a shiny aerodactyl" race="rock" race2="flying" experience="80" speed="390" manacost="0">
+<monster name="Shiny Aerodactyl" nameDescription="a shiny aerodactyl" race="rock" race2="flying" experience="80" speed="150" manacost="0">
 	<level min="25" max="50"/>
 	<health now="2550" max="2550" />
 	<look type="1295" head="113" body="57" legs="95" feet="113" corpse="27624" />

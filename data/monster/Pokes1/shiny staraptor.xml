@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Staraptor" nameDescription="a shiny staraptor" race="normal" race2="flying" experience="72" speed="300" manacost="0">
+<monster name="Shiny Staraptor" nameDescription="a shiny staraptor" race="normal" race2="flying" experience="72" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="2176" max="2176" />
 	<look type="3278" head="113" body="57" legs="95" feet="113" corpse="38800" />

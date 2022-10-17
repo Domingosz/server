@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amethyst Rattata" nameDescription="an amethyst rattata" race="normal" race2="none" experience="26" speed="144" manacost="0">
+<monster name="Amethyst Rattata" nameDescription="an amethyst rattata" race="normal" race2="none" experience="26" speed="150" manacost="0">
 	<level min="1" max="2"/>
 	<health now="646" max="646" />
 	<look type="3475" head="113" body="57" legs="95" feet="113" corpse="26880" />

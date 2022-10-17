@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Xmas Totodile" nameDescription="a xmas totodile" race="water" race2="none" experience="48" speed="130" manacost="0">
+<monster name="Xmas Totodile" nameDescription="a xmas totodile" race="water" race2="none" experience="48" speed="150" manacost="0">
 	<level min="1" max="10"/>
 	<health now="1598" max="1598" />
 	<look type="3149" head="113" body="57" legs="95" feet="113" corpse="38758" />

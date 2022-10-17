@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Glaceon" nameDescription="a glaceon" race="ice" race2="none" experience="52" speed="130" manacost="0">
+<monster name="Glaceon" nameDescription="a glaceon" race="ice" race2="none" experience="52" speed="150" manacost="0">
 	<level min="25" max="35"/>
 	<health now="1105" max="1105" />
 	<look type="3079" head="113" body="57" legs="95" feet="113" corpse="38517" />

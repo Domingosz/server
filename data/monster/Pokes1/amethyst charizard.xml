@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Amethyst Charizard" nameDescription="an amethyst charizard" race="fire" race2="flying" experience="55" speed="200" manacost="0">
+<monster name="Amethyst Charizard" nameDescription="an amethyst charizard" race="fire" race2="flying" experience="55" speed="150" manacost="0">
 	<level min="150" max="150"/>
 	<health now="1666" max="1666" />
 	<look type="3410" head="113" body="57" legs="95" feet="113" corpse="26867" />

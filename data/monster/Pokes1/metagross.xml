@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Metagross" nameDescription="a metagross" race="steel" race2="psychic" experience="62" speed="140" manacost="0">
+<monster name="Metagross" nameDescription="a metagross" race="steel" race2="psychic" experience="62" speed="150" manacost="0">
 	<level min="35" max="65"/>
 	<health now="1700" max="1700" />
 	<look type="1557" head="113" body="57" legs="95" feet="113" corpse="27948" />

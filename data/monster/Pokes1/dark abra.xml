@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Dark Abra" nameDescription="a dark abra" race="psychic" race2="dark" experience="128" speed="480" manacost="0">
+<monster name="Dark Abra" nameDescription="a dark abra" race="psychic" race2="dark" experience="128" speed="150" manacost="0">
 	<level min="80" max="100"/>
 	<health now="2346" max="2346" />
 	<look type="1304" head="113" body="57" legs="95" feet="113" corpse="27633" />

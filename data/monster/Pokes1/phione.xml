@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Phione" nameDescription="a phione" race="water" race2="none" experience="3584" speed="480" manacost="0">
+<monster name="Phione" nameDescription="a phione" race="water" race2="none" experience="3584" speed="150" manacost="0">
 	<level min="95" max="100"/>
 	<health now="170000" max="170000" />
 	<look type="3097" head="113" body="57" legs="95" feet="113" corpse="38535" />

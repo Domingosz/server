@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Graveler" nameDescription="a shiny graveler" race="rock" race2="ground" experience="60" speed="106" manacost="0">
+<monster name="Shiny Graveler" nameDescription="a shiny graveler" race="rock" race2="ground" experience="60" speed="150" manacost="0">
 	<level min="15" max="25"/>
 	<health now="1751" max="1751" />
 	<look type="1236" head="113" body="57" legs="95" feet="113" corpse="27565" />

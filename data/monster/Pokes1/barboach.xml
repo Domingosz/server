@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Barboach" nameDescription="a barboach" race="water" race2="ground" experience="30" speed="120" manacost="0">
+<monster name="Barboach" nameDescription="a barboach" race="water" race2="ground" experience="30" speed="150" manacost="0">
 	<level min="10" max="20"/>
 	<health now="1071" max="1071" />
 	<look type="1520" head="113" body="57" legs="95" feet="113" corpse="27911" />

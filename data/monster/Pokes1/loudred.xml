@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Loudred" nameDescription="a loudred" race="normal" race2="none" experience="38" speed="96" manacost="0">
+<monster name="Loudred" nameDescription="a loudred" race="normal" race2="none" experience="38" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1785" max="1785" />
 	<look type="1475" head="113" body="57" legs="95" feet="113" corpse="27866" />

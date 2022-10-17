@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Drifblim" nameDescription="a drifblim" race="ghost" race2="flying" experience="49" speed="160" manacost="0">
+<monster name="Drifblim" nameDescription="a drifblim" race="ghost" race2="flying" experience="49" speed="150" manacost="0">
 	<level min="20" max="30"/>
 	<health now="2550" max="2550" />
 	<look type="3034" head="113" body="57" legs="95" feet="113" corpse="38472" />

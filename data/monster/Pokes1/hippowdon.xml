@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Hippowdon" nameDescription="a hippowdon" race="ground" race2="none" experience="52" speed="94" manacost="0">
+<monster name="Hippowdon" nameDescription="a hippowdon" race="ground" race2="none" experience="52" speed="150" manacost="0">
 	<level min="20" max="35"/>
 	<health now="1836" max="1836" />
 	<look type="3058" head="113" body="57" legs="95" feet="113" corpse="38496" />

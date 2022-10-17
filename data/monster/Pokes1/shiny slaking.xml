@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Slaking" nameDescription="a shiny slaking" race="normal" race2="none" experience="105" speed="300" manacost="0">
+<monster name="Shiny Slaking" nameDescription="a shiny slaking" race="normal" race2="none" experience="105" speed="150" manacost="0">
 	<level min="40" max="60"/>
 	<health now="4777" max="4777" />
 	<look type="1779" head="113" body="57" legs="95" feet="113" corpse="28345" />

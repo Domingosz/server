@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Camerupt" nameDescription="a shiny camerupt" race="fire" race2="ground" experience="71" speed="120" manacost="0">
+<monster name="Shiny Camerupt" nameDescription="a shiny camerupt" race="fire" race2="ground" experience="71" speed="150" manacost="0">
 	<level min="20" max="45"/>
 	<health now="2227" max="2227" />
 	<look type="1812" head="113" body="57" legs="95" feet="113" corpse="28378" />

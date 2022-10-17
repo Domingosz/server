@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Deoxys" nameDescription="a shiny deoxys" race="psychic" race2="none" experience="3938" speed="1350" manacost="0">
+<monster name="Shiny Deoxys" nameDescription="a shiny deoxys" race="psychic" race2="none" experience="3938" speed="150" manacost="0">
 	<level min="90" max="99"/>
 	<health now="38250" max="38250" />
 	<look type="1567" head="113" body="57" legs="95" feet="113" corpse="38723" />

@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Gorebyss" nameDescription="a gorebyss" race="water" race2="none" experience="49" speed="104" manacost="0">
+<monster name="Gorebyss" nameDescription="a gorebyss" race="water" race2="none" experience="49" speed="150" manacost="0">
 	<level min="20" max="30"/>
 	<health now="1173" max="1173" />
 	<look type="1549" head="113" body="57" legs="95" feet="113" corpse="27940" />

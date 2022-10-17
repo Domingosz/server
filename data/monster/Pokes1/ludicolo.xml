@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Ludicolo" nameDescription="a ludicolo" race="water" race2="grass" experience="50" speed="140" manacost="0">
+<monster name="Ludicolo" nameDescription="a ludicolo" race="water" race2="grass" experience="50" speed="150" manacost="0">
 	<level min="25" max="50"/>
 	<health now="1700" max="1700" />
 	<look type="1453" head="113" body="57" legs="95" feet="113" corpse="27844" />

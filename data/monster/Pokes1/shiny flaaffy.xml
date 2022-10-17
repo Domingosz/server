@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Shiny Flaaffy" nameDescription="a shiny flaaffy" race="electric" race2="none" experience="57" speed="136" manacost="0">
+<monster name="Shiny Flaaffy" nameDescription="a shiny flaaffy" race="electric" race2="none" experience="57" speed="150" manacost="0">
 	<level min="20" max="30"/>
 	<health now="2227" max="2227" />
 	<look type="1653" head="113" body="57" legs="95" feet="113" corpse="28149" />

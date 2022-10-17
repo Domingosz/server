@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="ISO-8859-1"?>
-<monster name="Registeel" nameDescription="a registeel" race="steel" race2="none" experience="3250" speed="300" manacost="0">
+<monster name="Registeel" nameDescription="a registeel" race="steel" race2="none" experience="3250" speed="150" manacost="0">
 	<level min="90" max="99"/>
 	<health now="40800" max="40800" />
 	<look type="1560" head="113" body="57" legs="95" feet="113" corpse="27951" />
